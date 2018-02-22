@@ -1,0 +1,1500 @@
+;Datatype;Decimals;Default;Description;ID;Key;ParentID;Position;ReleasePolicy;Title;Type;Unit;odata.type
+153;;;;;153;;152.0;;;Totals;TopicGroup;;Cbs.OData.TopicGroup
+62;;;;;62;;61.0;;;Totals;TopicGroup;;Cbs.OData.TopicGroup
+61;;;;"People moving to the Netherlands from another country.
+Immigration relates to all individuals arriving in the Netherlands whose arrival result in entries in a municipal population register.
+The criteria are a residency for at least four months in the forthcoming six months.";61;;60.0;;;Immigration;TopicGroup;;Cbs.OData.TopicGroup
+60;;;;"External migration by country of birth.
+
+External migration:
+People who moved to the Netherlands (immigration) or inhabitants who leave The Netherlands (emigration).
+
+Inhabitant:
+Someone belonging to the population living in The Netherlands.
+In the population statistics compiled by Statistics Netherlands the inhabitants are the people registered in the population register, whose address is located in that area.
+
+Country of birth:
+The country where a person is born.
+Until 2010, persons whose country of birth was unknown were assumed to have the same country of birth as their father or mother (if their country of birth was known). Since 2010, this procedure is discontinued in the provisional monthly figures. As a result, the number of persons whose country of birth is unknown has increased. This may affect the provisional figures of all countries of birth in the table.
+
+Break in series external migration
+As a result of an improved production process, a small shift has occurred in the figures on external migration.
+From 2010 the following changes have been implemented.
+- previously missed reports are now included;
+- administrative entries preceding emigration are now considered as immigration
+- administrative removals followed by immigration are now considered as emigration
+For some immigrants and emigrants, country of birth is unknown in the provisional figures. From January 2014 onwards, country of birth is estimated: For immigrants, country of origin is considered country of birth, for emigrants, country of destination is considered country of birth. ";60;;59.0;;;External migration: country of b...;TopicGroup;;Cbs.OData.TopicGroup
+59;;;;"Migration:
+A move between two geographic entities resulting in a change of municipality or country.
+
+Break in series external migration.
+As a result of an improved production process, a small shift has occurred in the figures on external migration.
+From 2010 the following changes have been implemented.
+- previously missed reports are now included;
+- administrative entries preceding emigration are now considered as immigration
+- administrative removals followed by immigration are now considered as emigration.
+For some immigrants and emigrants, country of birth is unknown in the provisional figures. From January 2014 onwards, country of birth is estimated: For immigrants, country of origin is considered country of birth, for emigrants, country of destination is considered country of birth. 
+
+Break in series: late reports
+Until 2010, reports on events taking place in a certain year received by Statistics Netherlands after 15 February in the following year were disregarded. These are so-called late reports.
+As a result of an improvement in the production process, from 2010 these late reports are included in the year of publication (i.e. not in the year the event took place, but in the year the results are published).";59;;;;;Migration;TopicGroup;;Cbs.OData.TopicGroup
+197;;;;"Immigration minus emigration.
+
+Immigration:
+People moving to the Netherlands from another country.
+Immigration relates to all individuals arriving in the Netherlands whose arrival result in entries in a municipal population register.
+The criteria are a residency for at least four months in the forthcoming six months.
+
+Emigration:
+People leaving for another country.
+Emigration relates to all individuals departing from the Netherlands, whose departure result in removals from the Netherlands population registers. The criteria for removal from the registers are 8 months abroad in the following 12 months.";197;;60.0;;;Net migration;TopicGroup;;Cbs.OData.TopicGroup
+198;;;;"Net migration including administrative corrections.
+Data on net migration including net administrative corrections give a better impression of the true level of net migration than data on net migration excluding net administrative corrections.
+
+Administrative correction:
+Entries in and removals from the municipal population register for reasons other than birth, death, arrival, departure or municipal boundary change.
+The greater part of these corrections relates to the processing of either the departures of persons who did not notify the local authorities or the subsequent arrivals.
+
+Administrative entry:
+Decision by a municipality, at the request of the person concerned, to include that person in its population while it has no knowledge of birth, immigration or establishment of that person from another municipality in the Netherlands.
+
+Administrative removal:
+Decision by a municipality no longer to include a person in its population, once it has established that the address of the person is unknown, the person cannot be contacted and probably no longer resides in a municipality in the Netherlands.";198;;197.0;;;Net migration including administrativ...;TopicGroup;;Cbs.OData.TopicGroup
+199;;;;;199;;198.0;;;Totals;TopicGroup;;Cbs.OData.TopicGroup
+380;;;;;380;;379.0;;;Totals;TopicGroup;;Cbs.OData.TopicGroup
+55;;;;"Infant mortality:
+The number of live born children who died before their first birthday (age on last birthday).
+
+Live born child:
+A baby showing some sign of life after birth, regardless of the duration of pregnancy.";55;;26.0;;;Infant mortality by sex;TopicGroup;;Cbs.OData.TopicGroup
+106;;;;People leaving for another country.;106;;60.0;;;Emigration;TopicGroup;;Cbs.OData.TopicGroup
+379;;;;Administrative entries minus administrative removals.;379;;288.0;;;Net administrative corrections;TopicGroup;;Cbs.OData.TopicGroup
+489;;;;;489;;483.0;;;Females;TopicGroup;;Cbs.OData.TopicGroup
+47;;;;;47;;30.0;;;Females;TopicGroup;;Cbs.OData.TopicGroup
+494;;;;"Break in series: late reports
+Until 2010, reports on events taking place in a certain year received by Statistics Netherlands after 15 February in the following year were disregarded. These are so-called late reports.
+As a result of an improvement in the production process, from 2010 these late reports are included in the year of publication (i.e. not in the year the event took place, but in the year the results are published).
+
+Break in series marriages and marrying people
+As a result of an improved production process, a slight increase can be observed in the figures on marriages and marrying people from 2010. From 2010 onwards marriages taking place abroad in particular are measured more accurately.";494;;;;;Marriage / partnership: dissolutions;TopicGroup;;Cbs.OData.TopicGroup
+495;;;;"Break in series marriages and marrying people
+As a result of an improved production process, a slight increase can be observed in the figures on marriages and marrying people from 2010. From 2010 onwards marriages taking place abroad in particular are measured more accurately.
+
+From 2010: dissolutions of marriages or registered partnership by death of the partner or by divorce (or ending).
+
+Until 2010: dissolutions of marriages by death of the partner or divorce.
+Excluding endings of registered partnerships.
+
+Registered partnership:
+A marriage-like relationship between two people of the opposite or same sex, registered at the Register of Births, Deaths and Marriages.
+Registered partnership was introduced in The Netherlands on 1 January 1998.
+
+Divorce:
+Dissolution of the marriage pronounced by a judge on the basis of legal grounds. The divorce comes into force once it has been recorded in the municipal population register.
+Concern divorces in which at least one partner is recorded in a municipal population register.";495;;494.0;;;Dissolutions of marriage/partnership;TopicGroup;;Cbs.OData.TopicGroup
+211;;;;;211;;198.0;;;Countries;TopicGroup;;Cbs.OData.TopicGroup
+483;;;;"Marrying persons by sex and former marital status. Excluding persons who have registered a partnership.
+From 2010 data will no longer be published in this publication.
+
+Data includes all marriage partners and partners in a registered partnership entered in the Dutch municipal registers at the time of the marriage or the partnership.
+
+Marital status:
+Legal status involving someone's rights and competences as determined by legal marriage and registered partnership.
+
+Registered partnership:
+A marriage-like relationship between two people of the opposite or same sex, registered at the Register of Births, Deaths and Marriages.
+Registered partnership was introduced in The Netherlands on 1 January 1998.";483;;454.0;;;Marrying persons (until 2010);TopicGroup;;Cbs.OData.TopicGroup
+500;;;;"Since 2010, these numbers are no longer published in this table.
+";500;;494.0;;;Dissolutions of marriage (until 2010);TopicGroup;;Cbs.OData.TopicGroup
+392;;;;;392;;379.0;;;Countries;TopicGroup;;Cbs.OData.TopicGroup
+165;;;;;165;;152.0;;;Countries;TopicGroup;;Cbs.OData.TopicGroup
+108;;;;;108;;107.0;;;Totals;TopicGroup;;Cbs.OData.TopicGroup
+460;;;;"Marriages by sex of the partners.
+Excluding registered partnerships.
+Since 2010, these numbers are no longer published in this table.
+
+Marriage:
+Legal, formally sanctioned living arrangement between two people.
+Since 1 April 2001, it is legally possible for people in the Netherlands to marry a person of the same sex.
+The data includes marriages of which at least one partner is recorded in the municipal registers, irrespective of the country where the marriage was performed.
+In order to get married in the Netherlands, both partners must be at least eighteen years old. In special cases, minors are allowed to marry, provided both partners are at least sixteen years old and the woman:
+- is pregnant (this requires a medical certificate);
+- already has a child (this requires a birth certificate).
+Other exceptions are subject to approval by the Minister of Justice.
+
+Registered partnership:
+A relationship that is similar to marriage and is registered in the Municipal Population Register.
+Both couples of the same and of different sex may have this type of relationship registered.
+Registered partnership was introduced in the Netherlands on 1 January 1998.";460;;454.0;;;Marriages (until 2010);TopicGroup;;Cbs.OData.TopicGroup
+120;;;;;120;;107.0;;;Countries;TopicGroup;;Cbs.OData.TopicGroup
+465;;;;"Registered partnerships by sex of the partners.
+From 2010 data will no longer be published in this publication.
+
+Registered partnership:
+A relationship that is similar to marriage and is registered in the Municipal Population Register.
+Both couples of the same and of different sex may have this type of relationship registered.
+Registered partnership was introduced in the Netherlands on 1 January 1998.
+The data includes registered partnerships of which at least one partner is recorded in the municipal registers, irrespective of the country where the partnership was performed.";465;;454.0;;;Registered partnerships (until 2010);TopicGroup;;Cbs.OData.TopicGroup
+455;;;;"Marriages including registered partnerships by sex of the partners.
+Available from 2010.
+
+Marriage:
+Legal, formally sanctioned living arrangement between two people.
+Since 1 April 2001, it is legally possible for people in the Netherlands to marry a person of the same sex.
+The data includes marriages of which at least one partner is recorded in the municipal registers, irrespective of the country where the marriage was performed.
+In order to get married in the Netherlands, both partners must be at least eighteen years old. In special cases, minors are allowed to marry, provided both partners are at least sixteen years old and the woman:
+- is pregnant (this requires a medical certificate);
+- already has a child (this requires a birth certificate).
+Other exceptions are subject to approval by the Minister of Justice.
+
+Registered partnership:
+A relationship that is similar to marriage and is registered in the Municipal Population Register.
+Both couples of the same and of different sex may have this type of relationship registered.
+Registered partnership was introduced in the Netherlands on 1 January 1998.
+The data includes registered partnerships of which at least one partner is recorded in the municipal registers, irrespective of the country where the partnership was performed.";455;;454.0;;;Marriages / registered partnerships;TopicGroup;;Cbs.OData.TopicGroup
+470;;;;"Marrying persons including persons who have signed registered partnership agreements by gender and marital status prior to the marriage or registered partnership.
+
+Break in series marriages and marrying people
+As a result of an improved production process, a slight increase can be observed in the figures on marriages and marrying people from 2010. From 2010 onwards marriages taking place abroad in particular are measured more accurately.
+Available since 2010.
+
+Which persons are counted?
+Persons who, at the time of their marriage or partnership registration are included in the municipal population database of a Dutch municipality, irrespective of the country where they got married or their partnership was registered.
+
+Marital status:
+Formal position of a person indicating whether they are married or have signed a registered partnership.
+
+Registered partnership:
+A relationship resembling marriage between two persons of the same or opposite gender officially registered by the authorities. On 1 January 1998, registered partnerships were introduced in the Netherlands.
+";470;;454.0;;;Marriage / partnership: persons;TopicGroup;;Cbs.OData.TopicGroup
+471;;;;;471;;470.0;;;Males;TopicGroup;;Cbs.OData.TopicGroup
+74;;;;;74;;61.0;;;Countries;TopicGroup;;Cbs.OData.TopicGroup
+454;;;;"Break in series: late reports
+Until 2010, reports on events taking place in a certain year received by Statistics Netherlands after 15 February in the following year were disregarded. These are so-called late reports.
+As a result of an improvement in the production process, from 2010 these late reports are included in the year of publication (i.e. not in the year the event took place, but in the year the results are published).
+
+Break in series marriages and marrying people
+As a result of an improved production process, a slight increase can be observed in the figures on marriages and marrying people from 2010. From 2010 onwards marriages taking place abroad in particular are measured more accurately.";454;;;;;Marriage / partnership;TopicGroup;;Cbs.OData.TopicGroup
+440;;;;Persons moved between municipalities within the same province.;440;;439.0;;;Within provinces;TopicGroup;;Cbs.OData.TopicGroup
+477;;;;;477;;470.0;;;Females;TopicGroup;;Cbs.OData.TopicGroup
+439;;;;"Someone who moved between municipalities:
+A person who moved from one municipality to another.
+Excluding changes caused by municipal border changes.";439;;424.0;;;Between municipalities;TopicGroup;;Cbs.OData.TopicGroup
+432;;;;"Total persons moved within municipalities by family relationship during the move.
+Persons belong to the same family if they move on the same day and have the same old as well as new address. A person moves as an individual when there is no other person moving on the same day from the old to the new address.
+
+Someone who moved within a municipality:
+A person who moved from one address in a municipality to another address in the same municipality.";432;;424.0;;;Within municipalities;TopicGroup;;Cbs.OData.TopicGroup
+425;;;;"Total persons moved by family relationship during the move.
+Persons belong to the same family if they move on the same day and have the same old as well as new address. A person moves as an individual when there is no other person moving on the same day from the old to the new address.";425;;424.0;;;Total persons moved by family relatio...;TopicGroup;;Cbs.OData.TopicGroup
+424;;;;"Since 2010, numbers by place in the family are no longer available.
+
+Move:
+Change of address with the exception of changes that are the result of a change in street names, house numbers, municipal boundary changes etc.";424;;59.0;;;Persons who moved within the Netherlands;TopicGroup;;Cbs.OData.TopicGroup
+152;;;;"Emigration excluding administrative corrections.
+Data on emigration including net administrative corrections give a better impression of the true level of emigration than data on emigration excluding net administrative corrections.
+
+Emigration:
+People leaving for another country.
+Emigration relates to all individuals departing from the Netherlands, whose departure result in removals from the Netherlands population registers. The criteria for removal from the registers are 8 months abroad in the following 12 months.
+
+Administrative correction:
+Entries in and removals from the municipal population register for reasons other than birth, death, arrival, departure or municipal boundary change.
+The greater part of these corrections relates to the processing of either the departures of persons who did not notify the local authorities or the subsequent arrivals.
+
+Administrative entry:
+Decision by a municipality, at the request of the person concerned, to include that person in its population while it has no knowledge of birth, immigration or establishment of that person from another municipality in the Netherlands.
+
+Administrative removal:
+Decision by a municipality no longer to include a person in its population, once it has established that the address of the person is unknown, the person cannot be contacted and probably no longer resides in a municipality in the Netherlands.";152;;106.0;;;Emigration excluding administrative c...;TopicGroup;;Cbs.OData.TopicGroup
+447;;;;Persons moved from one province to the other.;447;;439.0;;;Between provinces;TopicGroup;;Cbs.OData.TopicGroup
+39;;;;;39;;30.0;;;Male;TopicGroup;;Cbs.OData.TopicGroup
+484;;;;;484;;483.0;;;Males;TopicGroup;;Cbs.OData.TopicGroup
+107;;;;"Emigration including administrative corrections.
+Data on emigration including net administrative corrections give a better impression of the true level of emigration than data on emigration excluding net administrative corrections.
+
+Emigration:
+People leaving for another country.
+Emigration relates to all individuals departing from the Netherlands, whose departure result in removals from the Netherlands population registers. The criteria for removal from the registers are 8 months abroad in the following 12 months.
+
+Administrative correction:
+Entries in and removals from the municipal population register for reasons other than birth, death, arrival, departure or municipal boundary change.
+The greater part of these corrections relates to the processing of either the departures of persons who did not notify the local authorities or the subsequent arrivals.
+
+Administrative entry:
+Decision by a municipality, at the request of the person concerned, to include that person in its population while it has no knowledge of birth, immigration or establishment of that person from another municipality in the Netherlands.
+
+Administrative removal:
+Decision by a municipality no longer to include a person in its population, once it has established that the address of the person is unknown, the person cannot be contacted and probably no longer resides in a municipality in the Netherlands.";107;;106.0;;;Emigration including administrative c...;TopicGroup;;Cbs.OData.TopicGroup
+14;;;;"Live born children by birth order from the mother.
+As from 2010, provisional figures by rank number are no longer available, but definite numbers will be added to the table on an annual basis.
+
+Live born child:
+A baby showing some sign of life after birth, regardless of the duration of pregnancy.
+
+Birth order from the mother:
+The position of the child in the ranking of live born children from a mother.";14;;12.0;;;Live born children: birth order;TopicGroup;;Cbs.OData.TopicGroup
+511;;;;"Asylum request:
+From 1 January 2012 on figures on the numbers of requests for asylum by citizenship are no longer reported in this publication. These figures are being published in the table: Request for Asylum by nationality, sex and age. The link to this table can be found at paragraph 2: Links to relevant tables and publications.
+
+A written request to be recognised as a refugee under the 1951 Geneva Convention.
+If the request is granted the asylum seeker receives a residence permit.
+Granted requests may refer to a request of the current or a previous year.
+If the request for asylum is definitely rejected, the asylum seeker is removed from the country. This can take place by one of three methods: deportation, departure under supervision, and police inspection of address after notice to leave.
+
+Asylum seeker:
+A person who for various reasons has left his or her own country in order to seek protection or asylum in another country, the Netherlands for instance.
+The number of individual requests for asylum is registered by the Ministry of Justice, the source of the figures mentioned in the table.
+Not every asylum seeker in a certain year is counted as an immigrant in that year. For the latter to be the case, registration in a municipal population register is required. Asylum seekers will only be registered either in course of time (in the year after one has filed a request for asylum for instance) or not at all (in case the request is refused for instance).
+
+In order to prevent the identification of individual persons, the information shown in the table is protected by means of rounding. The original data are rounded up or down to the closest multiple of ten. The round figures are not adjusted to add up to the sum total, in order to stay as close as possible to the original data.";511;;;;;Asylumrequests by country of nationality;TopicGroup;;Cbs.OData.TopicGroup
+12;;;;"Break in series: late reports
+Until 2010, reports on events taking place in a certain year received by Statistics Netherlands after 15 February in the following year were disregarded. These are so-called late reports.
+As a result of an improvement in the production process, from 2010 these late reports are included in the year of publication (i.e. not in the year the event took place, but in the year the results are published).
+";12;;;;;Births;TopicGroup;;Cbs.OData.TopicGroup
+335;;;;;335;;334.0;;;Totals;TopicGroup;;Cbs.OData.TopicGroup
+334;;;;;334;;288.0;;;Removals;TopicGroup;;Cbs.OData.TopicGroup
+20;;;;"Live born children by marital status of the mother.
+As from 2010, provisional figures by rank number are no longer available, but definite numbers will be added to the table on an annual basis.
+
+Break in series marital status
+From 2010 onwards a small shift has occured between a number of marital statuses (fewer never married and more married, divorced and widowed respectively).
+Because information on some marital statuses was lacking for the period 1998 to 2010 in data used by Statistics Netherlands, 'partnership', 'divorced after partnership' and 'widowed after partnership' were not included in these statistics for this period. For these statistics, the marital status before the partnership was used instead, which was mostly 'never married'. 
+From 2010 all marital statuses are available.
+
+Live born child:
+A baby showing some sign of life after birth, regardless of the duration of pregnancy.
+
+Marital status:
+Legal status involving someone's rights and competences as determined by legal marriage and registered partnership.
+
+Registered partnership:
+A relationship that is similar to marriage and is registered in the Municipal Population Register.
+Both couples of the same and of different sex may have this type of relationship registered.
+Registered partnership was introduced in the Netherlands on 1 January 1998.";20;;12.0;;;Live born children: marital status mo...;TopicGroup;;Cbs.OData.TopicGroup
+1;;;;"Population stock:
+Size and composition of the population and its components at a given time.
+
+Break in series: late reports
+Until 2010, reports on events taking place in a certain year received by Statistics Netherlands after 15 February in the following year were disregarded. These are so-called late reports.
+As a result of an improvement in the production process, from 2010 these late reports are included in the year of publication (i.e. not in the year the event took place, but in the year the results are published).
+
+Population flow:
+Changes in population numbers as a result of births, deaths, immigration, emigration, administrative and other corrections.
+
+Population:
+The population figures (numbers of inhabitants) shown in this publication relate to the resident ('de jure') population: persons who reside habitually in the Netherlands and who are recorded in the municipal population registers. In principle all those residing in the Netherlands for an indefinite period are entered into the population register of the municipality where they usually live.";1;;;;;Population stock and flow;TopicGroup;;Cbs.OData.TopicGroup
+288;;;;"Administrative corrections by country of birth.
+
+Administrative correction:
+Entries in and removals from the municipal population register for 
+reasons other than birth, death, arrival, departure or municipal boundary 
+change.
+The greater part of these corrections relates to the processing of either 
+the departures of persons who did not notify the local authorities or the 
+subsequent arrivals.
+
+Administrative entry:
+Decision by a municipality, at the request of the person concerned, to 
+include that person in its population while it has no knowledge of birth, 
+immigration or establishment of that person from another municipality in 
+the Netherlands.
+
+Administrative removal:
+Decision by a municipality no longer to include a person in its 
+population, once it has established that the address of the person is 
+unknown, the person cannot be contacted and probably no longer resides in a municipality in the Netherlands.";288;;59.0;;;Administrative corrections: country o...;TopicGroup;;Cbs.OData.TopicGroup
+256;;;;;256;;243.0;;;Countries;TopicGroup;;Cbs.OData.TopicGroup
+26;;;;"Break in series: late reports
+Until 2010, reports on events taking place in a certain year received by Statistics Netherlands after 15 February in the following year were disregarded. These are so-called late reports.
+As a result of an improvement in the production process, from 2010 these late reports are included in the year of publication (i.e. not in the year the event took place, but in the year the results are published).
+";26;;;;;Mortality;TopicGroup;;Cbs.OData.TopicGroup
+27;;;;"Only yearly data available.
+
+Life expectancy at birth:
+The number of years someone is expected to live at birth according to the life table.
+
+Life expectancy table:
+Table showing how many of 100,000 newborn boys or girls will reach the age of 0.5, 1.5, 2,5 years etc. on the basis of the mortality rate during a given period or birth cohort.";27;;26.0;;;Life expectancy at birth;TopicGroup;;Cbs.OData.TopicGroup
+290;;;;;290;;289.0;;;Totals;TopicGroup;;Cbs.OData.TopicGroup
+289;;;;;289;;288.0;;;Entries;TopicGroup;;Cbs.OData.TopicGroup
+347;;;;;347;;334.0;;;Countries;TopicGroup;;Cbs.OData.TopicGroup
+31;;;;;31;;30.0;;;Males and females;TopicGroup;;Cbs.OData.TopicGroup
+302;;;;;302;;289.0;;;Countries;TopicGroup;;Cbs.OData.TopicGroup
+244;;;;;244;;243.0;;;Totals;TopicGroup;;Cbs.OData.TopicGroup
+505;;;;"Break in series marriages and marrying people
+As a result of an improved production process, a slight increase can be observed in the figures on marriages and marrying people from 2010. From 2010 onwards marriages taking place abroad in particular are measured more accurately.
+
+Divorced persons by sex.
+Concerns divorcing persons registered in a Dutch municipal population register when the divorce is granted by court. Including persons who disolved their registered partnership.
+
+Registered partnership:
+A relationship that is similar to marriage and is registered in the Municipal Population Register.
+Both couples of the same and of different sex may have this type of relationship registered.
+Registered partnership was introduced in the Netherlands on 1 January 1998.";505;;494.0;;;Divorced persons (since 2010);TopicGroup;;Cbs.OData.TopicGroup
+30;;;;"Death by sex and age on 31 December.
+
+Death:
+Person declared dead by an authorized doctor.
+
+Age:
+The number of whole years that have passed between the date of birth of the deceased person and 31 December of the year of death, calculated as the year of death minus the year of birth.
+As a consequence of determining age in this manner, interpreting age-specific monthly figures may sometimes be difficult. For a better understanding, the relationships between the various data should be studied in a longer time series (see the article The use of the age concept in monthly population figures, which was published in the March 1996 edition of the Monthly Bulletin of Population Statistics).";30;;26.0;;;Deaths by sex and age (31-12);TopicGroup;;Cbs.OData.TopicGroup
+243;;;;"Net migration excluding administrative corrections.
+Data on net migration including net administrative corrections give a better impression of the true level of net migration than data on net migration excluding net administrative corrections.
+
+Administrative correction:
+Entries in and removals from the municipal population register for reasons other than birth, death, arrival, departure or municipal boundary change.
+The greater part of these corrections relates to the processing of either the departures of persons who did not notify the local authorities or the subsequent arrivals.
+
+Administrative entry:
+Decision by a municipality, at the request of the person concerned, to include that person in its population while it has no knowledge of birth, immigration or establishment of that person from another municipality in the Netherlands.
+
+Administrative removal:
+Decision by a municipality no longer to include a person in its population, once it has established that the address of the person is unknown, the person cannot be contacted and probably no longer resides in a municipality in the Netherlands.";243;;197.0;;;Net migration excluding administrativ...;TopicGroup;;Cbs.OData.TopicGroup
+508;;;;"Excluding persons who disolved their registered partnership.
+
+Since 2010, these numbers are no longer published in this table.
+";508;;494.0;;;Divorced persons (until 2010);TopicGroup;;Cbs.OData.TopicGroup
+122;Double;0.0;Impossible;;122;Afghanistan_102;120.0;102.0;;Afghanistan;Topic;number;Cbs.OData.Topic
+167;Long;0.0;Impossible;;167;Afghanistan_144;165.0;144.0;;Afghanistan;Topic;number;Cbs.OData.Topic
+213;Double;0.0;Impossible;;213;Afghanistan_186;211.0;186.0;;Afghanistan;Topic;number;Cbs.OData.Topic
+258;Double;0.0;Impossible;;258;Afghanistan_228;256.0;228.0;;Afghanistan;Topic;number;Cbs.OData.Topic
+304;Long;0.0;Impossible;;304;Afghanistan_270;302.0;270.0;;Afghanistan;Topic;number;Cbs.OData.Topic
+349;Long;0.0;Impossible;;349;Afghanistan_312;347.0;312.0;;Afghanistan;Topic;number;Cbs.OData.Topic
+394;Double;0.0;Impossible;;394;Afghanistan_354;392.0;354.0;;Afghanistan;Topic;number;Cbs.OData.Topic
+513;Long;0.0;Impossible;;513;Afghanistan_451;511.0;451.0;;Afghanistan;Topic;number;Cbs.OData.Topic
+76;Long;0.0;Impossible;;76;Afghanistan_60;74.0;60.0;;Afghanistan;Topic;number;Cbs.OData.Topic
+155;Long;0.0;Impossible;;155;Africa_133;153.0;133.0;;Africa;Topic;number;Cbs.OData.Topic
+201;Double;0.0;Impossible;;201;Africa_175;199.0;175.0;;Africa;Topic;number;Cbs.OData.Topic
+246;Double;0.0;Impossible;;246;Africa_217;244.0;217.0;;Africa;Topic;number;Cbs.OData.Topic
+292;Long;0.0;Impossible;;292;Africa_259;290.0;259.0;;Africa;Topic;number;Cbs.OData.Topic
+337;Long;0.0;Impossible;;337;Africa_301;335.0;301.0;;Africa;Topic;number;Cbs.OData.Topic
+382;Double;0.0;Impossible;;382;Africa_343;380.0;343.0;;Africa;Topic;number;Cbs.OData.Topic
+64;Long;0.0;Impossible;;64;Africa_49;62.0;49.0;;Africa;Topic;number;Cbs.OData.Topic
+110;Double;0.0;Impossible;;110;Africa_91;108.0;91.0;;Africa;Topic;number;Cbs.OData.Topic
+156;Long;0.0;Impossible;;156;America_134;153.0;134.0;;America;Topic;number;Cbs.OData.Topic
+202;Double;0.0;Impossible;;202;America_176;199.0;176.0;;America;Topic;number;Cbs.OData.Topic
+247;Double;0.0;Impossible;;247;America_218;244.0;218.0;;America;Topic;number;Cbs.OData.Topic
+293;Long;0.0;Impossible;;293;America_260;290.0;260.0;;America;Topic;number;Cbs.OData.Topic
+338;Long;0.0;Impossible;;338;America_302;335.0;302.0;;America;Topic;number;Cbs.OData.Topic
+383;Double;0.0;Impossible;;383;America_344;380.0;344.0;;America;Topic;number;Cbs.OData.Topic
+65;Long;0.0;Impossible;;65;America_50;62.0;50.0;;America;Topic;number;Cbs.OData.Topic
+111;Double;0.0;Impossible;;111;America_92;108.0;92.0;;America;Topic;number;Cbs.OData.Topic
+123;Double;0.0;Impossible;Angola, Cabinda, Portuguese Africa, Portuguese Western Africa.;123;Angola_103;120.0;103.0;;Angola;Topic;number;Cbs.OData.Topic
+168;Long;0.0;Impossible;Angola, Cabinda, Portuguese Africa, Portuguese Western Africa.;168;Angola_145;165.0;145.0;;Angola;Topic;number;Cbs.OData.Topic
+214;Double;0.0;Impossible;Angola, Cabinda, Portuguese Africa, Portuguese Western Africa.;214;Angola_187;211.0;187.0;;Angola;Topic;number;Cbs.OData.Topic
+259;Double;0.0;Impossible;Angola, Cabinda, Portuguese Africa, Portuguese Western Africa.;259;Angola_229;256.0;229.0;;Angola;Topic;number;Cbs.OData.Topic
+305;Long;0.0;Impossible;Angola, Cabinda, Portuguese Africa, Portuguese Western Africa.;305;Angola_271;302.0;271.0;;Angola;Topic;number;Cbs.OData.Topic
+350;Long;0.0;Impossible;Angola, Cabinda, Portuguese Africa, Portuguese Western Africa.;350;Angola_313;347.0;313.0;;Angola;Topic;number;Cbs.OData.Topic
+395;Double;0.0;Impossible;Angola, Cabinda, Portuguese Africa, Portuguese Western Africa.;395;Angola_355;392.0;355.0;;Angola;Topic;number;Cbs.OData.Topic
+77;Long;0.0;Impossible;Angola, Cabinda, Portuguese Africa, Portuguese Western Africa.;77;Angola_61;74.0;61.0;;Angola;Topic;number;Cbs.OData.Topic
+514;Long;0.0;Impossible;;514;Armenia_452;511.0;452.0;;Armenia;Topic;number;Cbs.OData.Topic
+157;Long;0.0;Impossible;;157;Asia_135;153.0;135.0;;Asia;Topic;number;Cbs.OData.Topic
+203;Double;0.0;Impossible;;203;Asia_177;199.0;177.0;;Asia;Topic;number;Cbs.OData.Topic
+248;Double;0.0;Impossible;;248;Asia_219;244.0;219.0;;Asia;Topic;number;Cbs.OData.Topic
+294;Long;0.0;Impossible;;294;Asia_261;290.0;261.0;;Asia;Topic;number;Cbs.OData.Topic
+339;Long;0.0;Impossible;;339;Asia_303;335.0;303.0;;Asia;Topic;number;Cbs.OData.Topic
+384;Double;0.0;Impossible;;384;Asia_345;380.0;345.0;;Asia;Topic;number;Cbs.OData.Topic
+66;Long;0.0;Impossible;;66;Asia_51;62.0;51.0;;Asia;Topic;number;Cbs.OData.Topic
+112;Double;0.0;Impossible;;112;Asia_93;108.0;93.0;;Asia;Topic;number;Cbs.OData.Topic
+124;Double;0.0;Impossible;Australia, Christmas Island, Cocos (Keeling) Islands, Tasmania.;124;Australia_104;120.0;104.0;;Australia;Topic;number;Cbs.OData.Topic
+169;Long;0.0;Impossible;Australia, Christmas Island, Cocos (Keeling) Islands, Tasmania.;169;Australia_146;165.0;146.0;;Australia;Topic;number;Cbs.OData.Topic
+215;Double;0.0;Impossible;Australia, Christmas Island, Cocos (Keeling) Islands, Tasmania.;215;Australia_188;211.0;188.0;;Australia;Topic;number;Cbs.OData.Topic
+260;Double;0.0;Impossible;Australia, Christmas Island, Cocos (Keeling) Islands, Tasmania.;260;Australia_230;256.0;230.0;;Australia;Topic;number;Cbs.OData.Topic
+306;Long;0.0;Impossible;Australia, Christmas Island, Cocos (Keeling) Islands, Tasmania.;306;Australia_272;302.0;272.0;;Australia;Topic;number;Cbs.OData.Topic
+351;Long;0.0;Impossible;Australia, Christmas Island, Cocos (Keeling) Islands, Tasmania.;351;Australia_314;347.0;314.0;;Australia;Topic;number;Cbs.OData.Topic
+396;Double;0.0;Impossible;Australia, Christmas Island, Cocos (Keeling) Islands, Tasmania.;396;Australia_356;392.0;356.0;;Australia;Topic;number;Cbs.OData.Topic
+78;Long;0.0;Impossible;Australia, Christmas Island, Cocos (Keeling) Islands, Tasmania.;78;Australia_62;74.0;62.0;;Australia;Topic;number;Cbs.OData.Topic
+125;Double;0.0;Impossible;;125;Belgium_105;120.0;105.0;;Belgium;Topic;number;Cbs.OData.Topic
+170;Long;0.0;Impossible;;170;Belgium_147;165.0;147.0;;Belgium;Topic;number;Cbs.OData.Topic
+216;Double;0.0;Impossible;;216;Belgium_189;211.0;189.0;;Belgium;Topic;number;Cbs.OData.Topic
+261;Double;0.0;Impossible;;261;Belgium_231;256.0;231.0;;Belgium;Topic;number;Cbs.OData.Topic
+307;Long;0.0;Impossible;;307;Belgium_273;302.0;273.0;;Belgium;Topic;number;Cbs.OData.Topic
+352;Long;0.0;Impossible;;352;Belgium_315;347.0;315.0;;Belgium;Topic;number;Cbs.OData.Topic
+397;Double;0.0;Impossible;;397;Belgium_357;392.0;357.0;;Belgium;Topic;number;Cbs.OData.Topic
+79;Long;0.0;Impossible;;79;Belgium_63;74.0;63.0;;Belgium;Topic;number;Cbs.OData.Topic
+458;Long;0.0;Impossible;;458;BetweenMaleAndFemale_410;455.0;410.0;;Between male and female;Topic;number;Cbs.OData.Topic
+463;Long;0.0;Impossible;;463;BetweenMaleAndFemale_414;460.0;414.0;;Between male and female;Topic;number;Cbs.OData.Topic
+468;Long;0.0;Impossible;;468;BetweenMaleAndFemale_418;465.0;418.0;;Between male and female;Topic;number;Cbs.OData.Topic
+459;Long;0.0;Impossible;;459;BetweenTwoFemales_411;455.0;411.0;;Between two females;Topic;number;Cbs.OData.Topic
+464;Long;0.0;Impossible;;464;BetweenTwoFemales_415;460.0;415.0;;Between two females;Topic;number;Cbs.OData.Topic
+469;Long;0.0;Impossible;;469;BetweenTwoFemales_419;465.0;419.0;;Between two females;Topic;number;Cbs.OData.Topic
+457;Long;0.0;Impossible;;457;BetweenTwoMales_409;455.0;409.0;;Between two males;Topic;number;Cbs.OData.Topic
+462;Long;0.0;Impossible;;462;BetweenTwoMales_413;460.0;413.0;;Between two males;Topic;number;Cbs.OData.Topic
+467;Long;0.0;Impossible;;467;BetweenTwoMales_417;465.0;417.0;;Between two males;Topic;number;Cbs.OData.Topic
+56;Double;0.0;Impossible;;56;BoysAndGirls_45;55.0;45.0;;Boys and girls;Topic;number;Cbs.OData.Topic
+57;Long;0.0;Impossible;;57;Boys_46;55.0;46.0;;Boys;Topic;number;Cbs.OData.Topic
+515;Long;0.0;Impossible;;515;Burundi_453;511.0;453.0;;Burundi;Topic;number;Cbs.OData.Topic
+126;Double;0.0;Impossible;China, Tibet.;126;China_106;120.0;106.0;;China;Topic;number;Cbs.OData.Topic
+171;Long;0.0;Impossible;China, Tibet.;171;China_148;165.0;148.0;;China;Topic;number;Cbs.OData.Topic
+217;Double;0.0;Impossible;China, Tibet.;217;China_190;211.0;190.0;;China;Topic;number;Cbs.OData.Topic
+262;Double;0.0;Impossible;China, Tibet.;262;China_232;256.0;232.0;;China;Topic;number;Cbs.OData.Topic
+308;Long;0.0;Impossible;China, Tibet.;308;China_274;302.0;274.0;;China;Topic;number;Cbs.OData.Topic
+353;Long;0.0;Impossible;China, Tibet.;353;China_316;347.0;316.0;;China;Topic;number;Cbs.OData.Topic
+398;Double;0.0;Impossible;China, Tibet.;398;China_358;392.0;358.0;;China;Topic;number;Cbs.OData.Topic
+516;Long;0.0;Impossible;;516;China_454;511.0;454.0;;China;Topic;number;Cbs.OData.Topic
+80;Long;0.0;Impossible;China, Tibet.;80;China_64;74.0;64.0;;China;Topic;number;Cbs.OData.Topic
+498;Long;0.0;Impossible;;498;DeathOfFemalePartner_440;495.0;440.0;;Death of female partner;Topic;number;Cbs.OData.Topic
+503;Long;0.0;Impossible;;503;DeathOfFemalePartner_444;500.0;444.0;;Death of female partner;Topic;number;Cbs.OData.Topic
+497;Long;0.0;Impossible;;497;DeathOfMalePartner_439;495.0;439.0;;Death of male partner;Topic;number;Cbs.OData.Topic
+502;Long;0.0;Impossible;;502;DeathOfMalePartner_443;500.0;443.0;;Death of male partner;Topic;number;Cbs.OData.Topic
+3;Long;0.0;Impossible;"Death:
+Person declared dead by an authorized doctor.";3;Deaths_2;1.0;2.0;;Deaths;Topic;number;Cbs.OData.Topic
+499;Long;0.0;Impossible;;499;DivorceEndingPartnership_441;495.0;441.0;;Divorce / ending partnership;Topic;number;Cbs.OData.Topic
+504;Long;0.0;Impossible;;504;Divorce_445;500.0;445.0;;Divorce;Topic;number;Cbs.OData.Topic
+476;Long;0.0;Impossible;"Divorced after legal marriage and divorced after partnership.
+
+Divorced after a legal marriage:
+Marital status resulting from ending a legal marriage by divorce. Excluding judicial separations which are included in the category married.
+
+Divorced after a partnership:
+Marital status resulting from ending a registered partnership other than by the death of the partner.";476;Divorced_424;471.0;424.0;;Divorced;Topic;number;Cbs.OData.Topic
+482;Long;0.0;Impossible;"Divorced after legal marriage and divorced after partnership.
+
+Divorced after a legal marriage:
+Marital status resulting from ending a legal marriage by divorce. Excluding judicial separations which are included in the category married.
+
+Divorced after a partnership:
+Marital status resulting from ending a registered partnership other than by the death of the partner.";482;Divorced_429;477.0;429.0;;Divorced;Topic;number;Cbs.OData.Topic
+488;Long;0.0;Impossible;Marital status resulting from ending a legal marriage by divorce, or by ending a registered partnership other than by the death of the partner.;488;Divorced_433;484.0;433.0;;Divorced;Topic;number;Cbs.OData.Topic
+493;Long;0.0;Impossible;Marital status resulting from ending a legal marriage by divorce, or by ending a registered partnership other than by the death of the partner.;493;Divorced_437;489.0;437.0;;Divorced;Topic;number;Cbs.OData.Topic
+6;Long;0.0;Impossible;"Emigration excluding administrative corrections.
+Data on emigration including net administrative corrections give a better impression of the true level of emigration than data on emigration excluding net administrative corrections.
+
+Emigration:
+People leaving for another country.
+Emigration relates to all individuals departing from the Netherlands, whose departure result in removals from the Netherlands population registers. The criteria for removal from the registers are 8 months abroad in the following 12 months.
+
+Administrative correction:
+Entries in and removals from the municipal population register for reasons other than birth, death, arrival, departure or municipal boundary change.
+The greater part of these corrections relates to the processing of either the departures of persons who did not notify the local authorities or the subsequent arrivals.
+
+Administrative entry:
+Decision by a municipality, at the request of the person concerned, to include that person in its population while it has no knowledge of birth, immigration or establishment of that person from another municipality in the Netherlands.
+
+Administrative removal:
+Decision by a municipality no longer to include a person in its population, once it has established that the address of the person is unknown, the person cannot be contacted and probably no longer resides in a municipality in the Netherlands.";6;EmigrationExcludingAdministrativeC_5;1.0;5.0;;Emigration excluding administrative c...;Topic;number;Cbs.OData.Topic
+5;Double;0.0;Impossible;"Emigration including administrative corrections.
+Data on emigration including net administrative corrections give a better impression of the true level of emigration than data on emigration excluding net administrative corrections.
+
+Emigration:
+People leaving for another country.
+Emigration relates to all individuals departing from the Netherlands, whose departure result in removals from the Netherlands population registers. The criteria for removal from the registers are 8 months abroad in the following 12 months.
+
+Administrative correction:
+Entries in and removals from the municipal population register for reasons other than birth, death, arrival, departure or municipal boundary change.
+The greater part of these corrections relates to the processing of either the departures of persons who did not notify the local authorities or the subsequent arrivals.
+
+Administrative entry:
+Decision by a municipality, at the request of the person concerned, to include that person in its population while it has no knowledge of birth, immigration or establishment of that person from another municipality in the Netherlands.
+
+Administrative removal:
+Decision by a municipality no longer to include a person in its population, once it has established that the address of the person is unknown, the person cannot be contacted and probably no longer resides in a municipality in the Netherlands.";5;EmigrationIncludingAdministrativeC_4;1.0;4.0;;Emigration including administrative c...;Topic;number;Cbs.OData.Topic
+158;Long;0.0;Impossible;;158;Europe_136;153.0;136.0;;Europe;Topic;number;Cbs.OData.Topic
+204;Double;0.0;Impossible;;204;Europe_178;199.0;178.0;;Europe;Topic;number;Cbs.OData.Topic
+249;Double;0.0;Impossible;;249;Europe_220;244.0;220.0;;Europe;Topic;number;Cbs.OData.Topic
+295;Long;0.0;Impossible;;295;Europe_262;290.0;262.0;;Europe;Topic;number;Cbs.OData.Topic
+340;Long;0.0;Impossible;;340;Europe_304;335.0;304.0;;Europe;Topic;number;Cbs.OData.Topic
+385;Double;0.0;Impossible;;385;Europe_346;380.0;346.0;;Europe;Topic;number;Cbs.OData.Topic
+67;Long;0.0;Impossible;;67;Europe_52;62.0;52.0;;Europe;Topic;number;Cbs.OData.Topic
+113;Double;0.0;Impossible;;113;Europe_94;108.0;94.0;;Europe;Topic;number;Cbs.OData.Topic
+119;Double;0.0;Impossible;"Total of the countries of the European Union (1 January 1995) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 1995: Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Portugal, Spain, Sweden, and the United Kingdom.";119;EuropeanUnion14Countries_100;108.0;100.0;;European Union: 14 countries;Topic;number;Cbs.OData.Topic
+164;Long;0.0;Impossible;"Total of the countries of the European Union (1 January 1995) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 1995: Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Portugal, Spain, Sweden, and the United Kingdom.";164;EuropeanUnion14Countries_142;153.0;142.0;;European Union: 14 countries;Topic;number;Cbs.OData.Topic
+210;Double;0.0;Impossible;"Total of the countries of the European Union (1 January 1995) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 1995: Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Portugal, Spain, Sweden, and the United Kingdom.";210;EuropeanUnion14Countries_184;199.0;184.0;;European Union: 14 countries;Topic;number;Cbs.OData.Topic
+255;Double;0.0;Impossible;"Total of the countries of the European Union (1 January 1995)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 1995: Austria, Belgium, Denmark, Finland, France, Germany,
+Greece, Ireland, Italy, Luxembourg, Portugal, Spain, Sweden, and the
+United Kingdom.";255;EuropeanUnion14Countries_226;244.0;226.0;;European Union: 14 countries;Topic;number;Cbs.OData.Topic
+301;Long;0.0;Impossible;"Total of the countries of the European Union (1 January 1995)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 1995: Austria, Belgium, Denmark, Finland, France, Germany,
+Greece, Ireland, Italy, Luxembourg, Portugal, Spain, Sweden, and the
+United Kingdom.";301;EuropeanUnion14Countries_268;290.0;268.0;;European Union: 14 countries;Topic;number;Cbs.OData.Topic
+346;Long;0.0;Impossible;"Total of the countries of the European Union (1 January 1995)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 1995: Austria, Belgium, Denmark, Finland, France, Germany,
+Greece, Ireland, Italy, Luxembourg, Portugal, Spain, Sweden, and the
+United Kingdom.";346;EuropeanUnion14Countries_310;335.0;310.0;;European Union: 14 countries;Topic;number;Cbs.OData.Topic
+391;Double;0.0;Impossible;"Total of the countries of the European Union (1 January 1995)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 1995: Austria, Belgium, Denmark, Finland, France, Germany,
+Greece, Ireland, Italy, Luxembourg, Portugal, Spain, Sweden, and the
+United Kingdom.";391;EuropeanUnion14Countries_352;380.0;352.0;;European Union: 14 countries;Topic;number;Cbs.OData.Topic
+73;Long;0.0;Impossible;"Total of the countries of the European Union (1 January 1995) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 1995: Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Portugal, Spain, Sweden, and the United Kingdom.";73;EuropeanUnion14Countries_58;62.0;58.0;;European Union: 14 countries;Topic;number;Cbs.OData.Topic
+163;Long;0.0;Impossible;"Total of the countries of the European Union (1 May 2004) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 May 2004: Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";163;EuropeanUnion24Countries_141;153.0;141.0;;European Union: 24 countries;Topic;number;Cbs.OData.Topic
+209;Double;0.0;Impossible;"Total of the countries of the European Union (1 May 2004) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 May 2004: Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";209;EuropeanUnion24Countries_183;199.0;183.0;;European Union: 24 countries;Topic;number;Cbs.OData.Topic
+254;Double;0.0;Impossible;"Total of the countries of the European Union (1 May 2004) excluding
+The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 May 2004: Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia,
+Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia,
+Lithuania, Luxembourg, Malta, Poland, Portugal, Slovakia, Slovenia,
+Spain, Sweden, and the United Kingdom.";254;EuropeanUnion24Countries_225;244.0;225.0;;European Union: 24 countries;Topic;number;Cbs.OData.Topic
+300;Long;0.0;Impossible;"Total of the countries of the European Union (1 May 2004) excluding
+The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 May 2004: Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia,
+Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia,
+Lithuania, Luxembourg, Malta, Poland, Portugal, Slovakia, Slovenia,
+Spain, Sweden, and the United Kingdom.";300;EuropeanUnion24Countries_267;290.0;267.0;;European Union: 24 countries;Topic;number;Cbs.OData.Topic
+345;Long;0.0;Impossible;"Total of the countries of the European Union (1 May 2004) excluding
+The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 May 2004: Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia,
+Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia,
+Lithuania, Luxembourg, Malta, Poland, Portugal, Slovakia, Slovenia,
+Spain, Sweden, and the United Kingdom.";345;EuropeanUnion24Countries_309;335.0;309.0;;European Union: 24 countries;Topic;number;Cbs.OData.Topic
+390;Double;0.0;Impossible;"Total of the countries of the European Union (1 May 2004) excluding
+The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 May 2004: Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia,
+Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia,
+Lithuania, Luxembourg, Malta, Poland, Portugal, Slovakia, Slovenia,
+Spain, Sweden, and the United Kingdom.";390;EuropeanUnion24Countries_351;380.0;351.0;;European Union: 24 countries;Topic;number;Cbs.OData.Topic
+72;Long;0.0;Impossible;"Total of the countries of the European Union (1 May 2004) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 May 2004: Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";72;EuropeanUnion24Countries_57;62.0;57.0;;European Union: 24 countries;Topic;number;Cbs.OData.Topic
+118;Double;0.0;Impossible;"Total of the countries of the European Union (1 May 2004) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 May 2004: Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";118;EuropeanUnion24Countries_99;108.0;99.0;;European Union: 24 countries;Topic;number;Cbs.OData.Topic
+162;Long;0.0;Impossible;"Total of the countries of the European Union (1 January 2007) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 2007: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";162;EuropeanUnion26Countries_140;153.0;140.0;;European Union: 26 countries;Topic;number;Cbs.OData.Topic
+208;Double;0.0;Impossible;"Total of the countries of the European Union (1 January 2007) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 2007: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";208;EuropeanUnion26Countries_182;199.0;182.0;;European Union: 26 countries;Topic;number;Cbs.OData.Topic
+253;Double;0.0;Impossible;"Total of the countries of the European Union (1 January 2007)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 2007: Austria, Belgium, Bulgaria, Cyprus, Czech Republic,
+Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland,
+Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania,
+Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";253;EuropeanUnion26Countries_224;244.0;224.0;;European Union: 26 countries;Topic;number;Cbs.OData.Topic
+299;Long;0.0;Impossible;"Total of the countries of the European Union (1 January 2007)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 2007: Austria, Belgium, Bulgaria, Cyprus, Czech Republic,
+Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland,
+Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania,
+Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";299;EuropeanUnion26Countries_266;290.0;266.0;;European Union: 26 countries;Topic;number;Cbs.OData.Topic
+344;Long;0.0;Impossible;"Total of the countries of the European Union (1 January 2007)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 2007: Austria, Belgium, Bulgaria, Cyprus, Czech Republic,
+Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland,
+Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania,
+Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";344;EuropeanUnion26Countries_308;335.0;308.0;;European Union: 26 countries;Topic;number;Cbs.OData.Topic
+389;Double;0.0;Impossible;"Total of the countries of the European Union (1 January 2007)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 2007: Austria, Belgium, Bulgaria, Cyprus, Czech Republic,
+Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland,
+Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania,
+Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";389;EuropeanUnion26Countries_350;380.0;350.0;;European Union: 26 countries;Topic;number;Cbs.OData.Topic
+71;Long;0.0;Impossible;"Total of the countries of the European Union (1 January 2007) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 2007: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";71;EuropeanUnion26Countries_56;62.0;56.0;;European Union: 26 countries;Topic;number;Cbs.OData.Topic
+117;Double;0.0;Impossible;"Total of the countries of the European Union (1 January 2007) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 January 2007: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";117;EuropeanUnion26Countries_98;108.0;98.0;;European Union: 26 countries;Topic;number;Cbs.OData.Topic
+161;Long;0.0;Impossible;"Total of the countries of the European Union (1 July 2013) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 July 2013: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Croatia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";161;EuropeanUnion27Countries_139;153.0;139.0;;European Union: 27 countries;Topic;number;Cbs.OData.Topic
+207;Double;0.0;Impossible;"Total of the countries of the European Union (1 July 2013) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 July 2013: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Croatia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";207;EuropeanUnion27Countries_181;199.0;181.0;;European Union: 27 countries;Topic;number;Cbs.OData.Topic
+252;Double;0.0;Impossible;"Total of the countries of the European Union (1 July 2013)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 July 2013: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Croatia, Denmark,
+Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy,
+Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia,
+Slovenia, Spain, Sweden, and the United Kingdom.";252;EuropeanUnion27Countries_223;244.0;223.0;;European Union: 27 countries;Topic;number;Cbs.OData.Topic
+298;Long;0.0;Impossible;"Total of the countries of the European Union (1 July 2013)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 July 2013: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Croatia, Denmark,
+Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy,
+Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia,
+Slovenia, Spain, Sweden, and the United Kingdom.";298;EuropeanUnion27Countries_265;290.0;265.0;;European Union: 27 countries;Topic;number;Cbs.OData.Topic
+343;Long;0.0;Impossible;"Total of the countries of the European Union (1 July 2013)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 July 2013: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Croatia, Denmark,
+Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy,
+Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia,
+Slovenia, Spain, Sweden, and the United Kingdom.";343;EuropeanUnion27Countries_307;335.0;307.0;;European Union: 27 countries;Topic;number;Cbs.OData.Topic
+388;Double;0.0;Impossible;"Total of the countries of the European Union (1 July 2013)
+excluding The Netherlands.
+.
+European Union:
+Convention between European countries.
+The composition of the European Union 1 July 2013: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Croatia, Denmark,
+Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy,
+Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia,
+Slovenia, Spain, Sweden, and the United Kingdom.";388;EuropeanUnion27Countries_349;380.0;349.0;;European Union: 27 countries;Topic;number;Cbs.OData.Topic
+70;Long;0.0;Impossible;"Total of the countries of the European Union (1 July 2013) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 July 2013: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Croatia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";70;EuropeanUnion27Countries_55;62.0;55.0;;European Union: 27 countries;Topic;number;Cbs.OData.Topic
+116;Long;0.0;Impossible;"Total of the countries of the European Union (1 July 2013) excluding The Netherlands.
+
+European Union:
+Convention between European countries.
+The composition of the European Union 1 July 2013: Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Croatia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom.";116;EuropeanUnion27Countries_97;108.0;97.0;;European Union: 27 countries;Topic;number;Cbs.OData.Topic
+29;Double;1.0;Impossible;;29;Females_23;27.0;23.0;;Females;Topic;year;Cbs.OData.Topic
+507;Long;0.0;Impossible;;507;Females_447;505.0;447.0;;Females;Topic;number;Cbs.OData.Topic
+510;Long;0.0;Impossible;;510;Females_449;508.0;449.0;;Females;Topic;number;Cbs.OData.Topic
+136;Double;0.0;Impossible;"Aggregate of the countries belonging to the territory of the Netherlands Antilles up to 10 October 2010 and Aruba. These countries are Bonaire, Curaçao, Saba, St Eustatius, St Maarten and Aruba.
+The Netherlands Antilles ceased to exist on 10 October 2010, as all the islands now have a new status. From 10 October the Kingdom of the Netherlands consists of four countries: the Netherlands, Aruba, Curaçao and St Maarten.
+Curaçao and St Maarten are new countries within the Kingdom; they are autonomous countries with a special status (status aparte) within the Kingdom. The countries have autonomous government, and are now no longer dependent on the Netherlands.
+The public bodies Bonaire, St Eustatius and Saba, also called the Dutch Caribbean, are more closely connected with the Netherlands and function as 'special municipalities'.
+.
+On 1 January 1986 Aruba seceded from the Netherlands Antilles and became a new autonomous country with a special status (status aparte) within the Kingdom of the Netherlands. Aruba has autonomous government, and is now no longer dependent on the Netherlands.";136;FormerNetherlandsAntillesAndAruba_116;120.0;116.0;;(former) Netherlands Antilles and Aruba;Topic;number;Cbs.OData.Topic
+181;Long;0.0;Impossible;"Aggregate of the countries belonging to the territory of the Netherlands Antilles up to 10 October 2010 and Aruba. These countries are Bonaire, Curaçao, Saba, St Eustatius, St Maarten and Aruba.
+The Netherlands Antilles ceased to exist on 10 October 2010, as all the islands now have a new status. From 10 October the Kingdom of the Netherlands consists of four countries: the Netherlands, Aruba, Curaçao and St Maarten.
+Curaçao and St Maarten are new countries within the Kingdom; they are autonomous countries with a special status (status aparte) within the Kingdom. The countries have autonomous government, and are now no longer dependent on the Netherlands.
+The public bodies Bonaire, St Eustatius and Saba, also called the Dutch Caribbean, are more closely connected with the Netherlands and function as 'special municipalities'.
+
+On 1 January 1986 Aruba seceded from the Netherlands Antilles and became a new autonomous country with a special status (status aparte) within the Kingdom of the Netherlands. Aruba has autonomous government, and is now no longer dependent on the Netherlands.";181;FormerNetherlandsAntillesAndAruba_158;165.0;158.0;;(former) Netherlands Antilles and Aruba;Topic;number;Cbs.OData.Topic
+227;Double;0.0;Impossible;"Aggregate of the countries belonging to the territory of the Netherlands Antilles up to 10 October 2010 and Aruba. These countries are Bonaire, Curaçao, Saba, St Eustatius, St Maarten and Aruba.
+The Netherlands Antilles ceased to exist on 10 October 2010, as all the islands now have a new status. From 10 October the Kingdom of the Netherlands consists of four countries: the Netherlands, Aruba, Curaçao and St Maarten.
+Curaçao and St Maarten are new countries within the Kingdom; they are autonomous countries with a special status (status aparte) within the Kingdom. The countries have autonomous government, and are now no longer dependent on the Netherlands.
+The public bodies Bonaire, St Eustatius and Saba, also called the Dutch Caribbean, are more closely connected with the Netherlands and function as 'special municipalities'.
+
+On 1 January 1986 Aruba seceded from the Netherlands Antilles and became a new autonomous country with a special status (status aparte) within the Kingdom of the Netherlands. Aruba has autonomous government, and is now no longer dependent on the Netherlands.";227;FormerNetherlandsAntillesAndAruba_200;211.0;200.0;;(former) Netherlands Antilles and Aruba;Topic;number;Cbs.OData.Topic
+272;Double;0.0;Impossible;"Aggregate of the countries belonging to the territory of the Netherlands Antilles up to 10 October 2010 and Aruba. These countries are Bonaire, Curaçao, Saba, St Eustatius, St Maarten and Aruba.
+The Netherlands Antilles ceased to exist on 10 October 2010, as all the islands now have a new status. From 10 October the Kingdom of the Netherlands consists of four countries: the Netherlands, Aruba, Curaçao and St Maarten.
+Curaçao and St Maarten are new countries within the Kingdom; they are autonomous countries with a special status (status aparte) within the Kingdom. The countries have autonomous government, and are now no longer dependent on the Netherlands.
+The public bodies Bonaire, St Eustatius and Saba, also called the Dutch Caribbean, are more closely connected with the Netherlands and function as 'special municipalities'.
+
+On 1 January 1986 Aruba seceded from the Netherlands Antilles and became a new autonomous country with a special status (status aparte) within the Kingdom of the Netherlands. Aruba has autonomous government, and is now no longer dependent on the Netherlands.";272;FormerNetherlandsAntillesAndAruba_242;256.0;242.0;;(former) Netherlands Antilles and Aruba;Topic;number;Cbs.OData.Topic
+318;Long;0.0;Impossible;"Aggregate of the countries belonging to the territory of the Netherlands
+Antilles up to 10 October 2010 and Aruba. These countries are Bonaire,
+Curaçao, Saba, St Eustatius, St Maarten and Aruba.
+The Netherlands Antilles ceased to exist on 10 October 2010, as all the
+islands now have a new status. From 10 October the Kingdom of the
+Netherlands consists of four countries: the Netherlands, Aruba, Curaçao
+and St Maarten.
+Curaçao and St Maarten are new countries within the Kingdom; they are
+autonomous countries with a special status (status aparte) within the
+Kingdom. The countries have autonomous government, and are now no longer
+dependent on the Netherlands.
+The public bodies Bonaire, St Eustatius and Saba, also called the Dutch
+Caribbean, are more closely connected with the Netherlands and function as
+'special municipalities'.
+.
+On 1 January 1986 Aruba seceded from the Netherlands Antilles and became a
+new autonomous country with a special status (status aparte) within the
+Kingdom of the Netherlands. Aruba has autonomous government, and is now no
+longer dependent on the Netherlands.";318;FormerNetherlandsAntillesAndAruba_284;302.0;284.0;;(former) Netherlands Antilles and Aruba;Topic;number;Cbs.OData.Topic
+363;Long;0.0;Impossible;"Aggregate of the countries belonging to the territory of the Netherlands
+Antilles up to 10 October 2010 and Aruba. These countries are Bonaire,
+Curaçao, Saba, St Eustatius, St Maarten and Aruba.
+The Netherlands Antilles ceased to exist on 10 October 2010, as all the
+islands now have a new status. From 10 October the Kingdom of the
+Netherlands consists of four countries: the Netherlands, Aruba, Curaçao
+and St Maarten.
+Curaçao and St Maarten are new countries within the Kingdom; they are
+autonomous countries with a special status (status aparte) within the
+Kingdom. The countries have autonomous government, and are now no longer
+dependent on the Netherlands.
+The public bodies Bonaire, St Eustatius and Saba, also called the Dutch
+Caribbean, are more closely connected with the Netherlands and function as
+'special municipalities'.
+.
+On 1 January 1986 Aruba seceded from the Netherlands Antilles and became a
+new autonomous country with a special status (status aparte) within the
+Kingdom of the Netherlands. Aruba has autonomous government, and is now no
+longer dependent on the Netherlands.";363;FormerNetherlandsAntillesAndAruba_326;347.0;326.0;;(former) Netherlands Antilles and Aruba;Topic;number;Cbs.OData.Topic
+408;Double;0.0;Impossible;"Aggregate of the countries belonging to the territory of the Netherlands
+Antilles up to 10 October 2010 and Aruba. These countries are Bonaire,
+Curaçao, Saba, St Eustatius, St Maarten and Aruba.
+The Netherlands Antilles ceased to exist on 10 October 2010, as all the
+islands now have a new status. From 10 October the Kingdom of the
+Netherlands consists of four countries: the Netherlands, Aruba, Curaçao
+and St Maarten.
+Curaçao and St Maarten are new countries within the Kingdom; they are
+autonomous countries with a special status (status aparte) within the
+Kingdom. The countries have autonomous government, and are now no longer
+dependent on the Netherlands.
+The public bodies Bonaire, St Eustatius and Saba, also called the Dutch
+Caribbean, are more closely connected with the Netherlands and function as
+'special municipalities'.
+.
+On 1 January 1986 Aruba seceded from the Netherlands Antilles and became a
+new autonomous country with a special status (status aparte) within the
+Kingdom of the Netherlands. Aruba has autonomous government, and is now no
+longer dependent on the Netherlands.";408;FormerNetherlandsAntillesAndAruba_368;392.0;368.0;;(former) Netherlands Antilles and Aruba;Topic;number;Cbs.OData.Topic
+90;Long;0.0;Impossible;"Aggregate of the countries belonging to the territory of the Netherlands Antilles up to 10 October 2010 and Aruba. These countries are Bonaire, Curaçao, Saba, St Eustatius, St Maarten and Aruba.
+The Netherlands Antilles ceased to exist on 10 October 2010, as all the islands now have a new status. From 10 October the Kingdom of the Netherlands consists of four countries: the Netherlands, Aruba, Curaçao and St Maarten.
+Curaçao and St Maarten are new countries within the Kingdom; they are autonomous countries with a special status (status aparte) within the Kingdom. The countries have autonomous government, and are now no longer dependent on the Netherlands.
+The public bodies Bonaire, St Eustatius and Saba, also called the Dutch Caribbean, are more closely connected with the Netherlands and function as 'special municipalities'.
+
+On 1 January 1986 Aruba seceded from the Netherlands Antilles and became a new autonomous country with a special status (status aparte) within the Kingdom of the Netherlands. Aruba has autonomous government, and is now no longer dependent on the Netherlands.";90;FormerNetherlandsAntillesAndAruba_74;74.0;74.0;;(former) Netherlands Antilles and Aruba;Topic;number;Cbs.OData.Topic
+127;Double;0.0;Impossible;;127;France_107;120.0;107.0;;France;Topic;number;Cbs.OData.Topic
+172;Long;0.0;Impossible;;172;France_149;165.0;149.0;;France;Topic;number;Cbs.OData.Topic
+218;Double;0.0;Impossible;;218;France_191;211.0;191.0;;France;Topic;number;Cbs.OData.Topic
+263;Double;0.0;Impossible;;263;France_233;256.0;233.0;;France;Topic;number;Cbs.OData.Topic
+309;Long;0.0;Impossible;;309;France_275;302.0;275.0;;France;Topic;number;Cbs.OData.Topic
+354;Long;0.0;Impossible;;354;France_317;347.0;317.0;;France;Topic;number;Cbs.OData.Topic
+399;Double;0.0;Impossible;;399;France_359;392.0;359.0;;France;Topic;number;Cbs.OData.Topic
+81;Long;0.0;Impossible;;81;France_65;74.0;65.0;;France;Topic;number;Cbs.OData.Topic
+128;Double;0.0;Impossible;Federal Republic of Germany, German Democratic Republic (former), Germany (former), Saarland.;128;Germany_108;120.0;108.0;;Germany;Topic;number;Cbs.OData.Topic
+173;Long;0.0;Impossible;Federal Republic of Germany, German Democratic Republic (former), Germany (former), Saarland.;173;Germany_150;165.0;150.0;;Germany;Topic;number;Cbs.OData.Topic
+219;Double;0.0;Impossible;Federal Republic of Germany, German Democratic Republic (former), Germany (former), Saarland.;219;Germany_192;211.0;192.0;;Germany;Topic;number;Cbs.OData.Topic
+264;Double;0.0;Impossible;Federal Republic of Germany, German Democratic Republic (former), Germany (former), Saarland.;264;Germany_234;256.0;234.0;;Germany;Topic;number;Cbs.OData.Topic
+310;Long;0.0;Impossible;"Federal Republic of Germany, German Democratic Republic (former),
+Germany (former), Saarland.";310;Germany_276;302.0;276.0;;Germany;Topic;number;Cbs.OData.Topic
+355;Long;0.0;Impossible;"Federal Republic of Germany, German Democratic Republic (former),
+Germany (former), Saarland.";355;Germany_318;347.0;318.0;;Germany;Topic;number;Cbs.OData.Topic
+400;Double;0.0;Impossible;"Federal Republic of Germany, German Democratic Republic (former),
+Germany (former), Saarland.";400;Germany_360;392.0;360.0;;Germany;Topic;number;Cbs.OData.Topic
+82;Long;0.0;Impossible;Federal Republic of Germany, German Democratic Republic (former), Germany (former), Saarland.;82;Germany_66;74.0;66.0;;Germany;Topic;number;Cbs.OData.Topic
+58;Long;0.0;Impossible;;58;Girls_47;55.0;47.0;;Girls;Topic;number;Cbs.OData.Topic
+517;Long;0.0;Impossible;;517;Guinea_455;511.0;455.0;;Guinea;Topic;number;Cbs.OData.Topic
+4;Long;0.0;Impossible;"Immigration:
+People moving to the Netherlands from another country.
+Immigration relates to all individuals arriving in the Netherlands whose arrival result in entries in a municipal population register.
+The criteria are a residency for at least four months in the forthcoming six months.";4;Immigration_3;1.0;3.0;;Immigration;Topic;number;Cbs.OData.Topic
+129;Double;0.0;Impossible;"Indonesia, Dutch East Indies, Dutch New Guinea.
+Up to 2003 including Portuguese Timor.";129;Indonesia_109;120.0;109.0;;Indonesia;Topic;number;Cbs.OData.Topic
+174;Long;0.0;Impossible;"Indonesia, Dutch East Indies, Dutch New Guinea.
+Up to 2003 including Portuguese Timor.";174;Indonesia_151;165.0;151.0;;Indonesia;Topic;number;Cbs.OData.Topic
+220;Double;0.0;Impossible;"Indonesia, Dutch East Indies, Dutch New Guinea.
+Up to 2003 including Portuguese Timor.";220;Indonesia_193;211.0;193.0;;Indonesia;Topic;number;Cbs.OData.Topic
+265;Double;0.0;Impossible;"Indonesia, Dutch East Indies, Dutch New Guinea.
+Up to 2003 including Portuguese Timor.";265;Indonesia_235;256.0;235.0;;Indonesia;Topic;number;Cbs.OData.Topic
+311;Long;0.0;Impossible;"Indonesia, Dutch East Indies, Dutch New Guinea.
+Up to 2003 including Portuguese Timor.";311;Indonesia_277;302.0;277.0;;Indonesia;Topic;number;Cbs.OData.Topic
+356;Long;0.0;Impossible;"Indonesia, Dutch East Indies, Dutch New Guinea.
+Up to 2003 including Portuguese Timor.";356;Indonesia_319;347.0;319.0;;Indonesia;Topic;number;Cbs.OData.Topic
+401;Double;0.0;Impossible;"Indonesia, Dutch East Indies, Dutch New Guinea.
+Up to 2003 including Portuguese Timor.";401;Indonesia_361;392.0;361.0;;Indonesia;Topic;number;Cbs.OData.Topic
+83;Long;0.0;Impossible;"Indonesia, Dutch East Indies, Dutch New Guinea.
+Up to 2003 including Portuguese Timor.";83;Indonesia_67;74.0;67.0;;Indonesia;Topic;number;Cbs.OData.Topic
+9;Long;0.0;Impossible;;9;InhabitantsAtEndOfSelectedPeriod_8;1.0;8.0;;Inhabitants at end of selected period;Topic;number;Cbs.OData.Topic
+130;Double;0.0;Impossible;;130;Iran_110;120.0;110.0;;Iran;Topic;number;Cbs.OData.Topic
+175;Long;0.0;Impossible;;175;Iran_152;165.0;152.0;;Iran;Topic;number;Cbs.OData.Topic
+221;Double;0.0;Impossible;;221;Iran_194;211.0;194.0;;Iran;Topic;number;Cbs.OData.Topic
+266;Double;0.0;Impossible;;266;Iran_236;256.0;236.0;;Iran;Topic;number;Cbs.OData.Topic
+312;Long;0.0;Impossible;;312;Iran_278;302.0;278.0;;Iran;Topic;number;Cbs.OData.Topic
+357;Long;0.0;Impossible;;357;Iran_320;347.0;320.0;;Iran;Topic;number;Cbs.OData.Topic
+402;Double;0.0;Impossible;;402;Iran_362;392.0;362.0;;Iran;Topic;number;Cbs.OData.Topic
+518;Long;0.0;Impossible;;518;Iran_456;511.0;456.0;;Iran;Topic;number;Cbs.OData.Topic
+84;Long;0.0;Impossible;;84;Iran_68;74.0;68.0;;Iran;Topic;number;Cbs.OData.Topic
+131;Double;0.0;Impossible;;131;Iraq_111;120.0;111.0;;Iraq;Topic;number;Cbs.OData.Topic
+176;Long;0.0;Impossible;;176;Iraq_153;165.0;153.0;;Iraq;Topic;number;Cbs.OData.Topic
+222;Double;0.0;Impossible;;222;Iraq_195;211.0;195.0;;Iraq;Topic;number;Cbs.OData.Topic
+267;Double;0.0;Impossible;;267;Iraq_237;256.0;237.0;;Iraq;Topic;number;Cbs.OData.Topic
+313;Long;0.0;Impossible;;313;Iraq_279;302.0;279.0;;Iraq;Topic;number;Cbs.OData.Topic
+358;Long;0.0;Impossible;;358;Iraq_321;347.0;321.0;;Iraq;Topic;number;Cbs.OData.Topic
+403;Double;0.0;Impossible;;403;Iraq_363;392.0;363.0;;Iraq;Topic;number;Cbs.OData.Topic
+519;Long;0.0;Impossible;;519;Iraq_457;511.0;457.0;;Iraq;Topic;number;Cbs.OData.Topic
+85;Long;0.0;Impossible;;85;Iraq_69;74.0;69.0;;Iraq;Topic;number;Cbs.OData.Topic
+132;Double;0.0;Impossible;;132;Italy_112;120.0;112.0;;Italy;Topic;number;Cbs.OData.Topic
+177;Long;0.0;Impossible;;177;Italy_154;165.0;154.0;;Italy;Topic;number;Cbs.OData.Topic
+223;Double;0.0;Impossible;;223;Italy_196;211.0;196.0;;Italy;Topic;number;Cbs.OData.Topic
+268;Double;0.0;Impossible;;268;Italy_238;256.0;238.0;;Italy;Topic;number;Cbs.OData.Topic
+314;Long;0.0;Impossible;;314;Italy_280;302.0;280.0;;Italy;Topic;number;Cbs.OData.Topic
+359;Long;0.0;Impossible;;359;Italy_322;347.0;322.0;;Italy;Topic;number;Cbs.OData.Topic
+404;Double;0.0;Impossible;;404;Italy_364;392.0;364.0;;Italy;Topic;number;Cbs.OData.Topic
+86;Long;0.0;Impossible;;86;Italy_70;74.0;70.0;;Italy;Topic;number;Cbs.OData.Topic
+133;Double;0.0;Impossible;Japan, Ryukyu Islands.;133;Japan_113;120.0;113.0;;Japan;Topic;number;Cbs.OData.Topic
+178;Long;0.0;Impossible;Japan, Ryukyu Islands.;178;Japan_155;165.0;155.0;;Japan;Topic;number;Cbs.OData.Topic
+224;Double;0.0;Impossible;Japan, Ryukyu Islands.;224;Japan_197;211.0;197.0;;Japan;Topic;number;Cbs.OData.Topic
+269;Double;0.0;Impossible;Japan, Ryukyu Islands.;269;Japan_239;256.0;239.0;;Japan;Topic;number;Cbs.OData.Topic
+315;Long;0.0;Impossible;Japan, Ryukyu Islands.;315;Japan_281;302.0;281.0;;Japan;Topic;number;Cbs.OData.Topic
+360;Long;0.0;Impossible;Japan, Ryukyu Islands.;360;Japan_323;347.0;323.0;;Japan;Topic;number;Cbs.OData.Topic
+405;Double;0.0;Impossible;Japan, Ryukyu Islands.;405;Japan_365;392.0;365.0;;Japan;Topic;number;Cbs.OData.Topic
+87;Long;0.0;Impossible;Japan, Ryukyu Islands.;87;Japan_71;74.0;71.0;;Japan;Topic;number;Cbs.OData.Topic
+2;Long;0.0;Impossible;"Live born child:
+A baby showing some sign of life after birth, regardless of the duration of pregnancy.";2;LiveBornChildren_1;1.0;1.0;;Live born children;Topic;number;Cbs.OData.Topic
+28;Double;1.0;Impossible;;28;Males_22;27.0;22.0;;Males;Topic;year;Cbs.OData.Topic
+506;Long;0.0;Impossible;;506;Males_446;505.0;446.0;;Males;Topic;number;Cbs.OData.Topic
+509;Long;0.0;Impossible;;509;Males_448;508.0;448.0;;Males;Topic;number;Cbs.OData.Topic
+22;Double;0.0;Impossible;"Marital birth:
+Birth where the mother is married at the time of birth, or a birth from a widow whose male or female partner passed away less than 306 days before the birth.
+
+Married:
+Since 2010: legal marriages plus registrated partnerships.
+In the period 1998-2010: legal marriages.
+As marital status is not always available in the source files used by Statistics Netherlands, partnerships were ignored in this statistics in the period 1998-2010. As a result, data referring to this period are presented excluding partnerships.
+Until 1998: legally married.
+
+Legally married:
+Marital status resulting from having married legally. Including judicial separations which are included in the category married.
+
+Partnership:
+Marital status resulting from entering into a registered partnership.";22;Marital_18;20.0;18.0;;Marital;Topic;number;Cbs.OData.Topic
+474;Long;0.0;Impossible;"Concerns partners who have turned their partnership into a marriage.
+
+Married:
+Legal marriages and partnerships.
+
+Legally married:
+Marital status resulting from having married legally. Including judicial separations which are included in the category married.
+
+Partnership:
+Marital status resulting from entering into a registered partnership.";474;Married_422;471.0;422.0;;Married;Topic;number;Cbs.OData.Topic
+480;Long;0.0;Impossible;"Concerns partners who have turned their partnership into a marriage.
+
+Married:
+Legal marriages and partnerships.
+
+Legally married:
+Marital status resulting from having married legally. Including judicial separations which are included in the category married.
+
+Partnership:
+Marital status resulting from entering into a registered partnership.";480;Married_427;477.0;427.0;;Married;Topic;number;Cbs.OData.Topic
+134;Double;0.0;Impossible;Morocco, Ifni, Spanish Sahara, Western Sahara.;134;Morocco_114;120.0;114.0;;Morocco;Topic;number;Cbs.OData.Topic
+179;Long;0.0;Impossible;Morocco, Ifni, Spanish Sahara, Western Sahara.;179;Morocco_156;165.0;156.0;;Morocco;Topic;number;Cbs.OData.Topic
+225;Double;0.0;Impossible;Morocco, Ifni, Spanish Sahara, Western Sahara.;225;Morocco_198;211.0;198.0;;Morocco;Topic;number;Cbs.OData.Topic
+270;Double;0.0;Impossible;Morocco, Ifni, Spanish Sahara, Western Sahara.;270;Morocco_240;256.0;240.0;;Morocco;Topic;number;Cbs.OData.Topic
+316;Long;0.0;Impossible;Morocco, Ifni, Spanish Sahara, Western Sahara.;316;Morocco_282;302.0;282.0;;Morocco;Topic;number;Cbs.OData.Topic
+361;Long;0.0;Impossible;Morocco, Ifni, Spanish Sahara, Western Sahara.;361;Morocco_324;347.0;324.0;;Morocco;Topic;number;Cbs.OData.Topic
+406;Double;0.0;Impossible;Morocco, Ifni, Spanish Sahara, Western Sahara.;406;Morocco_366;392.0;366.0;;Morocco;Topic;number;Cbs.OData.Topic
+88;Long;0.0;Impossible;Morocco, Ifni, Spanish Sahara, Western Sahara.;88;Morocco_72;74.0;72.0;;Morocco;Topic;number;Cbs.OData.Topic
+7;Long;0.0;Impossible;"Net administrative corrections and other corrections.
+Other corrections are only included in the final figures, and only in the totals for December.
+
+Net administrative corrections:
+Administrative entries minus administrative removals.
+
+Other correction:
+Correction caused by differences between the numbers of inhabitants in two consecutive years (1 January) which cannot be explained by birth, death, migration and administrative corrections.
+
+Administrative correction:
+Entry in or removal from the municipal population register for reasons other than birth, death, arrival, departure or municipal boundary change.
+
+Administrative entry:
+All entries in and removals from the municipal population register for reasons other than birth, death, arrival, departure or municipal boundary change.
+
+Administrative removal:
+Decision by a municipality no longer to include a person in its population, once it has established that the address of the person is unknown, the person cannot be contacted and probably no longer resides in a municipality in the Netherlands.";7;NetCorrections_6;1.0;6.0;;Net corrections;Topic;number;Cbs.OData.Topic
+473;Long;0.0;Impossible;Marital status indicating that someone was never married or never in a registered partnership at the moment the survey took place.;473;NeverMarried_421;471.0;421.0;;Never married;Topic;number;Cbs.OData.Topic
+479;Long;0.0;Impossible;Marital status indicating that someone was never married or never in a registered partnership at the moment the survey took place.;479;NeverMarried_426;477.0;426.0;;Never married;Topic;number;Cbs.OData.Topic
+486;Long;0.0;Impossible;Marital status indicating that someone was never married or never in a registered partnership at the moment the survey took place.;486;NeverMarried_431;484.0;431.0;;Never married;Topic;number;Cbs.OData.Topic
+491;Long;0.0;Impossible;Marital status indicating that someone was never married or never in a registered partnership at the moment the survey took place.;491;NeverMarried_435;489.0;435.0;;Never married;Topic;number;Cbs.OData.Topic
+520;Long;0.0;Impossible;;520;Nigeria_458;511.0;458.0;;Nigeria;Topic;number;Cbs.OData.Topic
+24;Long;0.0;Impossible;"Non-marital live born first children from the mother.
+
+Non-marital birth:
+The mother is never married, divorced or widowed at the moment of birth.
+If the mother was married and the marriage (or registered partnership) was dissolved by the death of her partner less than 306 days before she gave birth, the birth is considered within marriage (or registered partnership).
+
+Never married:
+Since 2010: marital status indicating that a person has never been married before or has never signed partnership contract.
+In the period 1998-2010: marital status indicating that a person has never been married before.
+As marital status is not always available in the source files used by Statistics Netherlands 'widowed after registered partnership' and 'divorced after registered partnership' are ignored in this statistics in the period 1998-2010. This implies that the marital status prior to the partnership - usually unmarried - is used.
+Until 1998: marital status indicating that a person has never been married before.
+
+Married:
+Since 2010: legal marriages plus registered partnerships.
+In the period 1998-2010: legally married.
+As marital status is not always available in the source files used by Statistics Netherlands registered partnership is ignored in this statistics in the period 1998-2010. This implies excluding registered partnership.
+Until 1998: legally married.
+Since 2010: legal marriages plus registered partnerships.
+In the period 1998-2010: legally married.
+As marital status is not always available in the source files used by Statistics Netherlands registered partnership is ignored in this statistics in the period 1998-2010. This implies excluding registered partnership.
+Until 1998: legally married.
+
+Legally married:
+Marital status resulting from having married legally. Including judicial separations which are included in the category married.
+
+Partnership:
+Marital status resulting from entering into a registered partnership.
+
+Divorced:
+Since 2010: divorced after legal marriage and divorced after registered partnership.
+In the period 1998-2010: divorced after legal marriage.
+As marital status is not always available in the source files used by Statistics Netherlands (divorced after) registered partnership is ignored in this statistics in the period 1998-2010. This implies excluding divorced after registered partnership and including registered partnership after divorce.
+Until 1998: divorced after legal marriage.
+
+Divorced after a legal marriage:
+Marital status resulting from ending a legal marriage by divorce.
+Excluding judicial separations which are included in the category married.
+
+Divorced after a partnership:
+Marital status resulting from ending a registered partnership other than by the death of the partner.
+
+Widowed:
+Since 2010: widowed after legal marriage plus widowed after registered partnership.
+In the period 1998-2010: widowed after legal marriage.
+As marital status is not always available in the source files used by Statistics Netherlands (widowed after) registered partnership is ignored in this statistics in the period 1998-2010. This implies excluding widowed after registered partnership and including registered partnership after being widowed.
+Until 1998: widowed after legal marriage.
+
+Widowed after a legal marriage:
+Marital status resulting from death ending a legal marriage.
+
+Widowed after a partnership:
+Marital status resulting from death ending a registered partnership.";24;NonMarital1stChildren_20;20.0;20.0;;Non- marital, 1st children;Topic;number;Cbs.OData.Topic
+25;Double;0.0;Impossible;"Non-marital live born second or following children from the mother.
+
+Non-marital birth:
+The mother is never married, divorced or widowed at the moment of birth.
+If the mother was married and the marriage (or registered partnership) was dissolved by the death of her partner less than 306 days before she gave birth, the birth is considered within marriage (or registered partnership).
+
+Never married:
+Since 2010: marital status indicating that a person has never been married before or has never signed partnership contract.
+In the period 1998-2010: marital status indicating that a person has never been married before.
+As marital status is not always available in the source files used by Statistics Netherlands 'widowed after registered partnership' and 'divorced after registered partnership' are ignored in this statistics in the period 1998-2010. This implies that the marital status prior to the partnership - usually unmarried - is used.
+Until 1998: marital status indicating that a person has never been married before.
+
+Married:
+Since 2010: legal marriages plus registered partnerships.
+In the period 1998-2010: legally married.
+As marital status is not always available in the source files used by Statistics Netherlands registered partnership is ignored in this statistics in the period 1998-2010. This implies excluding registered partnership.
+Until 1998: legally married
+
+Legally married:
+Marital status resulting from having married legally. Including judicial separations which are included in the category married.
+
+Partnership:
+Marital status resulting from entering into a registered partnership.
+
+Widowed:
+Since 2010: widowed after legal marriage plus widowed after registered partnership.
+In the period 1998-2010: widowed after legal marriage.
+As marital status is not always available in the source files used by statistics Netherlands (widowed after) registered partnership is ignored in this statistics in the period 1998-2010. This implies excluding widowed after registered partnership and including registered partnership after being widowed.
+Until 1998: widowed after legal marriage.
+
+Widowed after a legal marriage:
+Marital status resulting from death ending a legal marriage.
+
+Widowed after a partnership:
+Marital status resulting from death ending a registered partnership.
+
+Divorced:
+Since 2010: divorced after legal marriage and divorced after registered partnership.
+In the period 1998-2010: divorced after legal marriage.
+As marital status is not always available in the source files used by Statistics Netherlands (divorced after) registered partnership is ignored in this statistics in the period 1998-2010. This implies excluding divorced after registered partnership and including registered partnership after divorce.
+Until 1998: divorced after legal marriage.
+
+Divorced after a legal marriage:
+Marital status resulting from ending a legal marriage by divorce.
+Excluding judicial separations which are included in the category married.
+
+Divorced after a partnership:
+Marital status resulting from ending a registered partnership other than by the death of the partner.";25;NonMarital2ndOrFollowingChildren_21;20.0;21.0;;Non- marital, 2nd or following children;Topic;number;Cbs.OData.Topic
+23;Long;0.0;Impossible;"Non-marital birth:
+The mother is never married, divorced or widowed at the moment of birth.
+If the mother was married and the marriage (or registered partnership) was dissolved by the death of her partner less than 306 days before she gave birth, the birth is considered within marriage (or registered partnership).
+
+Never married:
+Since 2010: marital status indicating that a person has never been married before or has never signed partnership contract.
+In the period 1998-2010: marital status indicating that a person has never been married or has never signed partnership contract.
+As marital status is not always available in the source files used by Statistics Netherlands 'widowed after registered partnership' and 'divorced after registered partnership' are ignored in this statistics in the period 1998-2010. This implies that the marital status prior to the partnership - usually unmarried - is used.
+Until 1998: marital status indicating that a person has never been married before.
+
+Married:
+Since 2010: legal marriages plus registered partnerships.
+In the period 1998-2010: legally married.
+As marital status is not always available in the source files used by Statistics Netherlands, registered partnerships were ignored in this statistics in the period 1998-2010. As a result, data referring to this period are presented excluding registered partnerships.
+Until 1998: legally married
+
+Legally married:
+Marital status resulting from having married legally. Including judicial separations which are included in the category married.
+
+Partnership:
+Marital status resulting from entering into a registered partnership.
+
+Divorced:
+Since 2010: divorced after legal marriage and divorced after registered partnership.
+In the period 1998-2010: divorced after legal marriage.
+As marital status is not always available in the source files used by Statistics Netherlands (divorced after) registered partnership is ignored in this statistics in the period 1998-2010. This implies excluding divorced after registered partnership and including registered partnership after divorce.
+Until 1998: divorced after legal marriage
+
+Divorced after a legal marriage:
+Marital status resulting from ending a legal marriage by divorce.
+Excluding judicial separations which are included in the category married.
+
+Divorced after a partnership:
+Marital status resulting from ending a registered partnership other than by the death of the partner.
+
+Widowed:
+Since 2010: widowed after legal marriage plus widowed after registered partnership.
+In the period 1998-2010: widowed after legal marriage.
+As marital status is not always available in the source files used by Statistics Netherlands (widowed after) registered partnership is ignored in this statistics in the period 1998-2010. This implies excluding widowed after registered partnership and including registered partnership after being widowed.
+Until 1998: widowed after legal marriage.
+
+Widowed after a legal marriage:
+Marital status resulting from death ending a legal marriage.
+
+Widowed after a partnership:
+Marital status resulting from death ending a registered partnership.";23;NonMaritalTotal_19;20.0;19.0;;Non-marital, total;Topic;number;Cbs.OData.Topic
+159;Long;0.0;Impossible;;159;Oceania_137;153.0;137.0;;Oceania;Topic;number;Cbs.OData.Topic
+205;Double;0.0;Impossible;;205;Oceania_179;199.0;179.0;;Oceania;Topic;number;Cbs.OData.Topic
+250;Double;0.0;Impossible;;250;Oceania_221;244.0;221.0;;Oceania;Topic;number;Cbs.OData.Topic
+296;Long;0.0;Impossible;;296;Oceania_263;290.0;263.0;;Oceania;Topic;number;Cbs.OData.Topic
+341;Long;0.0;Impossible;;341;Oceania_305;335.0;305.0;;Oceania;Topic;number;Cbs.OData.Topic
+386;Double;0.0;Impossible;;386;Oceania_347;380.0;347.0;;Oceania;Topic;number;Cbs.OData.Topic
+68;Long;0.0;Impossible;;68;Oceania_53;62.0;53.0;;Oceania;Topic;number;Cbs.OData.Topic
+114;Double;0.0;Impossible;;114;Oceania_95;108.0;95.0;;Oceania;Topic;number;Cbs.OData.Topic
+151;Double;0.0;Impossible;"Total emigration (including administrative corrections) minus Afghanistan, Angola, Australia, Belgium, China, former Soviet Union, former Yugoslavia, France, Germany, Indonesia, Iran, Iraq, Italy, Japan, Morocco, Netherlands Antilles and Aruba, Poland, Portugal, Sierra Leone, Somalia, South Africa, Spain, Sudan, Suriname, Syria, The Netherlands, Turkey, United Kingdom and the United States of America.
+Including country of birth unknown.";151;OtherCountries_131;120.0;131.0;;Other countries;Topic;number;Cbs.OData.Topic
+196;Long;0.0;Impossible;"Total emigration minus Afghanistan, Angola, Australia, Belgium, China, former Soviet Union, former Yugoslavia, France, Germany, Indonesia, Iran, Iraq, Italy, Japan, Morocco, Netherlands Antilles and Aruba, Poland, Portugal, Sierra Leone, Somalia, South Africa, Spain, Sudan, Suriname, Syria, The Netherlands, Turkey, United Kingdom and the United States of America.
+Including country of birth unknown.";196;OtherCountries_173;165.0;173.0;;Other countries;Topic;number;Cbs.OData.Topic
+242;Double;0.0;Impossible;"Total net migration (including administrative corrections) minus Afghanistan, Angola, Australia, Belgium, China, former Soviet Union, former Yugoslavia, France, Germany, Indonesia, Iran, Iraq, Italy, Japan, Morocco, Netherlands Antilles and Aruba, Poland, Portugal, Sierra Leone, Somalia, South Africa, Spain, Sudan, Suriname, Syria, The Netherlands, Turkey, United Kingdom and the United States of America.
+Including country of birth unknown.";242;OtherCountries_215;211.0;215.0;;Other countries;Topic;number;Cbs.OData.Topic
+287;Double;0.0;Impossible;"Total net migration minus Afghanistan, Angola, Australia, Belgium, China, former Soviet Union, former Yugoslavia, France, Germany, Indonesia, Iran, Iraq, Italy, Japan, Morocco, Netherlands Antilles and Aruba, Poland, Portugal, Sierra Leone, Somalia, South Africa, Spain, Sudan, Suriname, Syria, The Netherlands, Turkey, United Kingdom and the United States of America.
+Including country of birth unknown.";287;OtherCountries_257;256.0;257.0;;Other countries;Topic;number;Cbs.OData.Topic
+333;Long;0.0;Impossible;"Total administrative entries minus Afghanistan, Angola, Australia,
+Belgium, China, former Soviet Union, former Yugoslavia, France, Germany,
+Indonesia, Iran, Iraq, Italy, Japan, Morocco, Netherlands Antilles and
+Aruba, Poland, Portugal, Sierra Leone, Somalia, South Africa, Spain,
+Sudan, Suriname, Syria, The Netherlands, Turkey, United Kingdom and the
+United States of America.
+Including country of birth unknown.";333;OtherCountries_299;302.0;299.0;;Other countries;Topic;number;Cbs.OData.Topic
+378;Long;0.0;Impossible;"Total administrative removals minus Afghanistan, Angola, Australia,
+Belgium, China, former Soviet Union, former Yugoslavia, France, Germany,
+Indonesia, Iran, Iraq, Italy, Japan, Morocco, Netherlands Antilles and
+Aruba, Poland, Portugal, Sierra Leone, Somalia, South Africa, Spain,
+Sudan, Suriname, Syria, The Netherlands, Turkey, United Kingdom and the
+United States of America.
+Including country of birth unknown.";378;OtherCountries_341;347.0;341.0;;Other countries;Topic;number;Cbs.OData.Topic
+423;Double;0.0;Impossible;"Total net administrative corrections minus Afghanistan, Angola, Australia,
+Belgium, China, former Soviet Union, former Yugoslavia, France, Germany,
+Indonesia, Iran, Iraq, Italy, Japan, Morocco, Netherlands Antilles and
+Aruba, Poland, Portugal, Sierra Leone, Somalia, South Africa, Spain,
+Sudan, Suriname, Syria, The Netherlands, Turkey, United Kingdom and the
+United States of America.
+Including country of birth unknown.";423;OtherCountries_383;392.0;383.0;;Other countries;Topic;number;Cbs.OData.Topic
+105;Long;0.0;Impossible;"Total immigration minus Afghanistan, Angola, Australia, Belgium, China, former Soviet Union, former Yugoslavia, France, Germany, Indonesia, Iran, Iraq, Italy, Japan, Morocco, Netherlands Antilles and Aruba, Poland, Portugal, Sierra Leone, Somalia, South Africa, Spain, Sudan, Suriname, Syria, The Netherlands, Turkey, United Kingdom and the United States of America.
+Including country of birth unknown.";105;OtherCountries_89;74.0;89.0;;Other countries;Topic;number;Cbs.OData.Topic
+525;Long;0.0;Impossible;Total requests for asylum minus Afghanistan, Armenia, Burundi, China, Guinea, Iran, Iraq, Nigeria, Sierra Leone, Somalia, Sri Lanka and Turkey.;525;OtherNationalities_463;511.0;463.0;;Other nationalities;Topic;number;Cbs.OData.Topic
+0;;;;;0;Periods;;0.0;True;Periods;TimeDimension;;Cbs.OData.TimeDimension
+430;Long;0.0;Impossible;"Persons in cohabiting couples with children.
+Plus the children.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";430;PersonsInCohabitingCouplesWithC_388;425.0;388.0;;Persons in cohabiting couples, with c...;Topic;number;Cbs.OData.Topic
+437;Long;0.0;Impossible;"Persons in cohabiting couples with children.
+Plus the children.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";437;PersonsInCohabitingCouplesWithC_394;432.0;394.0;;Persons in cohabiting couples, with c...;Topic;number;Cbs.OData.Topic
+445;Long;0.0;Impossible;"Persons in cohabiting couples with children.
+Plus the children.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";445;PersonsInCohabitingCouplesWithC_400;440.0;400.0;;Persons in cohabiting couples, with c...;Topic;number;Cbs.OData.Topic
+452;Long;0.0;Impossible;"Persons in cohabiting couples with children. Plus the children.
+Family relationship during the move.";452;PersonsInCohabitingCouplesWithC_406;447.0;406.0;;Persons in cohabiting couples, with c...;Topic;number;Cbs.OData.Topic
+427;Long;0.0;Impossible;"Persons in married couple plus children. Excluding persons in partnership.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available
+
+Registered partnership:
+A relationship that is similar to marriage and is registered in the Municipal Population Register.
+Both couples of the same and of different sex may have this type of relationship registered.
+Registered partnership was introduced in the Netherlands on 1 January 1998.";427;PersonsInMarriedCouples_385;425.0;385.0;;Persons in married couples;Topic;number;Cbs.OData.Topic
+434;Long;0.0;Impossible;"Persons in married couple plus children. Excluding persons in partnership.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.
+
+Registered partnership:
+A relationship that is similar to marriage and is registered in the Municipal Population Register.
+Both couples of the same and of different sex may have this type of relationship registered.
+Registered partnership was introduced in the Netherlands on 1 January 1998.";434;PersonsInMarriedCouples_391;432.0;391.0;;Persons in married couples;Topic;number;Cbs.OData.Topic
+442;Long;0.0;Impossible;"Persons in married couple plus children. Excluding persons in partnership.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.
+
+Registered partnership:
+A relationship that is similar to marriage and is registered in the Municipal Population Register.
+Both couples of the same and of different sex may have this type of relationship registered.
+Registered partnership was introduced in the Netherlands on 1 January 1998.";442;PersonsInMarriedCouples_397;440.0;397.0;;Persons in married couples;Topic;number;Cbs.OData.Topic
+449;Long;0.0;Impossible;"Persons in married couple plus children. 
+Excluding persons in partnership.
+Family relationship during the move.
+
+Registered partnership:
+A relationship that is similar to marriage and is registered in the Municipal Population Register.
+Both couples of the same and of different sex may have this type of relationship registered.
+Registered partnership was introduced in the Netherlands on 1 January 1998.";449;PersonsInMarriedCouples_403;447.0;403.0;;Persons in married couples;Topic;number;Cbs.OData.Topic
+428;Long;0.0;Impossible;"Persons in single-father families plus children.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";428;PersonsInSingleFatherFamilies_386;425.0;386.0;;Persons in single-father families;Topic;number;Cbs.OData.Topic
+435;Long;0.0;Impossible;"Persons in single-father families plus children.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";435;PersonsInSingleFatherFamilies_392;432.0;392.0;;Persons in single-father families;Topic;number;Cbs.OData.Topic
+443;Long;0.0;Impossible;"Persons in single-father families plus children.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";443;PersonsInSingleFatherFamilies_398;440.0;398.0;;Persons in single-father families;Topic;number;Cbs.OData.Topic
+450;Long;0.0;Impossible;"Persons in single-father families plus children.
+Family relationship during the move.";450;PersonsInSingleFatherFamilies_404;447.0;404.0;;Persons in single-father families;Topic;number;Cbs.OData.Topic
+429;Long;0.0;Impossible;"Persons in single-mother families plus children.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";429;PersonsInSingleMotherFamilies_387;425.0;387.0;;Persons in single-mother families;Topic;number;Cbs.OData.Topic
+436;Long;0.0;Impossible;"Persons in single-mother families plus children.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";436;PersonsInSingleMotherFamilies_393;432.0;393.0;;Persons in single-mother families;Topic;number;Cbs.OData.Topic
+444;Long;0.0;Impossible;"Persons in single-mother families plus children.
+Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.
+";444;PersonsInSingleMotherFamilies_399;440.0;399.0;;Persons in single-mother families;Topic;number;Cbs.OData.Topic
+451;Long;0.0;Impossible;"Persons in single-mother families plus children.
+Family relationship during the move.";451;PersonsInSingleMotherFamilies_405;447.0;405.0;;Persons in single-mother families;Topic;number;Cbs.OData.Topic
+431;Long;0.0;Impossible;"Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";431;PersonsNotLivingWithinAFamily_389;425.0;389.0;;Persons not living within a family;Topic;number;Cbs.OData.Topic
+438;Long;0.0;Impossible;"Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";438;PersonsNotLivingWithinAFamily_395;432.0;395.0;;Persons not living within a family;Topic;number;Cbs.OData.Topic
+446;Long;0.0;Impossible;"Family relationship during the move.
+
+Since 2010, numbers by place in the family are no longer available.";446;PersonsNotLivingWithinAFamily_401;440.0;401.0;;Persons not living within a family;Topic;number;Cbs.OData.Topic
+453;Long;0.0;Impossible;Family relationship during the move.;453;PersonsNotLivingWithinAFamily_407;447.0;407.0;;Persons not living within a family;Topic;number;Cbs.OData.Topic
+10;Long;0.0;Impossible;"Someone who moved between municipalities:
+A person who moved from one municipality to another.
+Excluding changes caused by municipal border changes.";10;PersonsWhoMovedBetweenMunicipalities_9;1.0;9.0;;Persons who moved between municipalities;Topic;number;Cbs.OData.Topic
+11;Long;0.0;Impossible;"Persons who moved within the same municipality.
+
+Someone who moved within a municipality:
+A person who moved from one address in a municipality to another address in the same municipality.";11;PersonsWhoMovedWithinTheSameMun_10;1.0;10.0;;Persons who moved within the same mun...;Topic;number;Cbs.OData.Topic
+137;Double;0.0;Impossible;Poland and Dantzig.;137;Poland_117;120.0;117.0;;Poland;Topic;number;Cbs.OData.Topic
+182;Long;0.0;Impossible;Poland and Dantzig.;182;Poland_159;165.0;159.0;;Poland;Topic;number;Cbs.OData.Topic
+228;Double;0.0;Impossible;Poland and Dantzig.;228;Poland_201;211.0;201.0;;Poland;Topic;number;Cbs.OData.Topic
+273;Double;0.0;Impossible;Poland and Dantzig.;273;Poland_243;256.0;243.0;;Poland;Topic;number;Cbs.OData.Topic
+319;Long;0.0;Impossible;Poland and Dantzig.;319;Poland_285;302.0;285.0;;Poland;Topic;number;Cbs.OData.Topic
+364;Long;0.0;Impossible;Poland and Dantzig.;364;Poland_327;347.0;327.0;;Poland;Topic;number;Cbs.OData.Topic
+409;Double;0.0;Impossible;Poland and Dantzig.;409;Poland_369;392.0;369.0;;Poland;Topic;number;Cbs.OData.Topic
+91;Long;0.0;Impossible;Poland and Dantzig.;91;Poland_75;74.0;75.0;;Poland;Topic;number;Cbs.OData.Topic
+138;Double;0.0;Impossible;Portugal, Azores, Madeira.;138;Portugal_118;120.0;118.0;;Portugal;Topic;number;Cbs.OData.Topic
+183;Long;0.0;Impossible;Portugal, Azores, Madeira.;183;Portugal_160;165.0;160.0;;Portugal;Topic;number;Cbs.OData.Topic
+229;Double;0.0;Impossible;Portugal, Azores, Madeira.;229;Portugal_202;211.0;202.0;;Portugal;Topic;number;Cbs.OData.Topic
+274;Double;0.0;Impossible;Portugal, Azores, Madeira.;274;Portugal_244;256.0;244.0;;Portugal;Topic;number;Cbs.OData.Topic
+320;Long;0.0;Impossible;Portugal, Azores, Madeira.;320;Portugal_286;302.0;286.0;;Portugal;Topic;number;Cbs.OData.Topic
+365;Long;0.0;Impossible;Portugal, Azores, Madeira.;365;Portugal_328;347.0;328.0;;Portugal;Topic;number;Cbs.OData.Topic
+410;Double;0.0;Impossible;Portugal, Azores, Madeira.;410;Portugal_370;392.0;370.0;;Portugal;Topic;number;Cbs.OData.Topic
+92;Long;0.0;Impossible;Portugal, Azores, Madeira.;92;Portugal_76;74.0;76.0;;Portugal;Topic;number;Cbs.OData.Topic
+139;Double;0.0;Impossible;;139;SierraLeone_119;120.0;119.0;;Sierra Leone;Topic;number;Cbs.OData.Topic
+184;Long;0.0;Impossible;;184;SierraLeone_161;165.0;161.0;;Sierra Leone;Topic;number;Cbs.OData.Topic
+230;Double;0.0;Impossible;;230;SierraLeone_203;211.0;203.0;;Sierra Leone;Topic;number;Cbs.OData.Topic
+275;Double;0.0;Impossible;;275;SierraLeone_245;256.0;245.0;;Sierra Leone;Topic;number;Cbs.OData.Topic
+321;Long;0.0;Impossible;;321;SierraLeone_287;302.0;287.0;;Sierra Leone;Topic;number;Cbs.OData.Topic
+366;Long;0.0;Impossible;;366;SierraLeone_329;347.0;329.0;;Sierra Leone;Topic;number;Cbs.OData.Topic
+411;Double;0.0;Impossible;;411;SierraLeone_371;392.0;371.0;;Sierra Leone;Topic;number;Cbs.OData.Topic
+521;Long;0.0;Impossible;;521;SierraLeone_459;511.0;459.0;;Sierra Leone;Topic;number;Cbs.OData.Topic
+93;Long;0.0;Impossible;;93;SierraLeone_77;74.0;77.0;;Sierra Leone;Topic;number;Cbs.OData.Topic
+140;Double;0.0;Impossible;Somalia, British Somaliland, Italian Somaliland.;140;Somalia_120;120.0;120.0;;Somalia;Topic;number;Cbs.OData.Topic
+185;Long;0.0;Impossible;Somalia, British Somaliland, Italian Somaliland.;185;Somalia_162;165.0;162.0;;Somalia;Topic;number;Cbs.OData.Topic
+231;Double;0.0;Impossible;Somalia, British Somaliland, Italian Somaliland.;231;Somalia_204;211.0;204.0;;Somalia;Topic;number;Cbs.OData.Topic
+276;Double;0.0;Impossible;Somalia, British Somaliland, Italian Somaliland.;276;Somalia_246;256.0;246.0;;Somalia;Topic;number;Cbs.OData.Topic
+322;Long;0.0;Impossible;Somalia, British Somaliland, Italian Somaliland.;322;Somalia_288;302.0;288.0;;Somalia;Topic;number;Cbs.OData.Topic
+367;Long;0.0;Impossible;Somalia, British Somaliland, Italian Somaliland.;367;Somalia_330;347.0;330.0;;Somalia;Topic;number;Cbs.OData.Topic
+412;Double;0.0;Impossible;Somalia, British Somaliland, Italian Somaliland.;412;Somalia_372;392.0;372.0;;Somalia;Topic;number;Cbs.OData.Topic
+522;Long;0.0;Impossible;;522;Somalia_460;511.0;460.0;;Somalia;Topic;number;Cbs.OData.Topic
+94;Long;0.0;Impossible;Somalia, British Somaliland, Italian Somaliland.;94;Somalia_78;74.0;78.0;;Somalia;Topic;number;Cbs.OData.Topic
+141;Double;0.0;Impossible;;141;SouthAfrica_121;120.0;121.0;;South Africa;Topic;number;Cbs.OData.Topic
+186;Long;0.0;Impossible;;186;SouthAfrica_163;165.0;163.0;;South Africa;Topic;number;Cbs.OData.Topic
+232;Double;0.0;Impossible;;232;SouthAfrica_205;211.0;205.0;;South Africa;Topic;number;Cbs.OData.Topic
+277;Double;0.0;Impossible;;277;SouthAfrica_247;256.0;247.0;;South Africa;Topic;number;Cbs.OData.Topic
+323;Long;0.0;Impossible;;323;SouthAfrica_289;302.0;289.0;;South Africa;Topic;number;Cbs.OData.Topic
+368;Long;0.0;Impossible;;368;SouthAfrica_331;347.0;331.0;;South Africa;Topic;number;Cbs.OData.Topic
+413;Double;0.0;Impossible;;413;SouthAfrica_373;392.0;373.0;;South Africa;Topic;number;Cbs.OData.Topic
+95;Long;0.0;Impossible;;95;SouthAfrica_79;74.0;79.0;;South Africa;Topic;number;Cbs.OData.Topic
+142;Double;0.0;Impossible;Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Republic of Moldova, Ukraine, Uzbekistan, Russian Federation, Russia (former), Soviet Union, Tadzhikistan, Turkmenistan.;142;SovietUnionFormer_122;120.0;122.0;;Soviet Union (former);Topic;number;Cbs.OData.Topic
+187;Long;0.0;Impossible;Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Republic of Moldova, Ukraine, Uzbekistan, Russian Federation, Russia (former), Soviet Union, Tadzhikistan, Turkmenistan.;187;SovietUnionFormer_164;165.0;164.0;;Soviet Union (former);Topic;number;Cbs.OData.Topic
+233;Double;0.0;Impossible;Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Republic of Moldova, Ukraine, Uzbekistan, Russian Federation, Russia (former), Soviet Union, Tadzhikistan, Turkmenistan.;233;SovietUnionFormer_206;211.0;206.0;;Soviet Union (former);Topic;number;Cbs.OData.Topic
+278;Double;0.0;Impossible;Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Republic of Moldova, Ukraine, Uzbekistan, Russian Federation, Russia (former), Soviet Union, Tadzhikistan, Turkmenistan.;278;SovietUnionFormer_248;256.0;248.0;;Soviet Union (former);Topic;number;Cbs.OData.Topic
+324;Long;0.0;Impossible;"Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan,
+Kyrgyzstan, Latvia, Lithuania, Republic of Moldova, Ukraine,
+Uzbekistan, Russian Federation, Russia (former), Soviet Union,
+Tadzhikistan, Turkmenistan.";324;SovietUnionFormer_290;302.0;290.0;;Soviet Union (former);Topic;number;Cbs.OData.Topic
+369;Long;0.0;Impossible;"Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan,
+Kyrgyzstan, Latvia, Lithuania, Republic of Moldova, Ukraine,
+Uzbekistan, Russian Federation, Russia (former), Soviet Union,
+Tadzhikistan, Turkmenistan.";369;SovietUnionFormer_332;347.0;332.0;;Soviet Union (former);Topic;number;Cbs.OData.Topic
+414;Double;0.0;Impossible;"Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan,
+Kyrgyzstan, Latvia, Lithuania, Republic of Moldova, Ukraine,
+Uzbekistan, Russian Federation, Russia (former), Soviet Union,
+Tadzhikistan, Turkmenistan.";414;SovietUnionFormer_374;392.0;374.0;;Soviet Union (former);Topic;number;Cbs.OData.Topic
+96;Long;0.0;Impossible;Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Republic of Moldova, Ukraine, Uzbekistan, Russian Federation, Russia (former), Soviet Union, Tadzhikistan, Turkmenistan.;96;SovietUnionFormer_80;74.0;80.0;;Soviet Union (former);Topic;number;Cbs.OData.Topic
+143;Double;0.0;Impossible;Spain, Canary Islands, Spanish North Africa.;143;Spain_123;120.0;123.0;;Spain;Topic;number;Cbs.OData.Topic
+188;Long;0.0;Impossible;Spain, Canary Islands, Spanish North Africa.;188;Spain_165;165.0;165.0;;Spain;Topic;number;Cbs.OData.Topic
+234;Double;0.0;Impossible;Spain, Canary Islands, Spanish North Africa.;234;Spain_207;211.0;207.0;;Spain;Topic;number;Cbs.OData.Topic
+279;Double;0.0;Impossible;Spain, Canary Islands, Spanish North Africa.;279;Spain_249;256.0;249.0;;Spain;Topic;number;Cbs.OData.Topic
+325;Long;0.0;Impossible;Spain, Canary Islands, Spanish North Africa.;325;Spain_291;302.0;291.0;;Spain;Topic;number;Cbs.OData.Topic
+370;Long;0.0;Impossible;Spain, Canary Islands, Spanish North Africa.;370;Spain_333;347.0;333.0;;Spain;Topic;number;Cbs.OData.Topic
+415;Double;0.0;Impossible;Spain, Canary Islands, Spanish North Africa.;415;Spain_375;392.0;375.0;;Spain;Topic;number;Cbs.OData.Topic
+97;Long;0.0;Impossible;Spain, Canary Islands, Spanish North Africa.;97;Spain_81;74.0;81.0;;Spain;Topic;number;Cbs.OData.Topic
+523;Long;0.0;Impossible;;523;SriLanka_461;511.0;461.0;;Sri Lanka;Topic;number;Cbs.OData.Topic
+144;Double;0.0;Impossible;;144;Sudan_124;120.0;124.0;;Sudan;Topic;number;Cbs.OData.Topic
+189;Long;0.0;Impossible;;189;Sudan_166;165.0;166.0;;Sudan;Topic;number;Cbs.OData.Topic
+235;Double;0.0;Impossible;;235;Sudan_208;211.0;208.0;;Sudan;Topic;number;Cbs.OData.Topic
+280;Double;0.0;Impossible;;280;Sudan_250;256.0;250.0;;Sudan;Topic;number;Cbs.OData.Topic
+326;Long;0.0;Impossible;;326;Sudan_292;302.0;292.0;;Sudan;Topic;number;Cbs.OData.Topic
+371;Long;0.0;Impossible;;371;Sudan_334;347.0;334.0;;Sudan;Topic;number;Cbs.OData.Topic
+416;Double;0.0;Impossible;;416;Sudan_376;392.0;376.0;;Sudan;Topic;number;Cbs.OData.Topic
+98;Long;0.0;Impossible;;98;Sudan_82;74.0;82.0;;Sudan;Topic;number;Cbs.OData.Topic
+145;Double;0.0;Impossible;;145;Suriname_125;120.0;125.0;;Suriname;Topic;number;Cbs.OData.Topic
+190;Long;0.0;Impossible;;190;Suriname_167;165.0;167.0;;Suriname;Topic;number;Cbs.OData.Topic
+236;Double;0.0;Impossible;;236;Suriname_209;211.0;209.0;;Suriname;Topic;number;Cbs.OData.Topic
+281;Double;0.0;Impossible;;281;Suriname_251;256.0;251.0;;Suriname;Topic;number;Cbs.OData.Topic
+327;Long;0.0;Impossible;;327;Suriname_293;302.0;293.0;;Suriname;Topic;number;Cbs.OData.Topic
+372;Long;0.0;Impossible;;372;Suriname_335;347.0;335.0;;Suriname;Topic;number;Cbs.OData.Topic
+417;Double;0.0;Impossible;;417;Suriname_377;392.0;377.0;;Suriname;Topic;number;Cbs.OData.Topic
+99;Long;0.0;Impossible;;99;Suriname_83;74.0;83.0;;Suriname;Topic;number;Cbs.OData.Topic
+146;Double;0.0;Impossible;;146;Syria_126;120.0;126.0;;Syria;Topic;number;Cbs.OData.Topic
+191;Long;0.0;Impossible;;191;Syria_168;165.0;168.0;;Syria;Topic;number;Cbs.OData.Topic
+237;Double;0.0;Impossible;;237;Syria_210;211.0;210.0;;Syria;Topic;number;Cbs.OData.Topic
+282;Double;0.0;Impossible;;282;Syria_252;256.0;252.0;;Syria;Topic;number;Cbs.OData.Topic
+328;Long;0.0;Impossible;;328;Syria_294;302.0;294.0;;Syria;Topic;number;Cbs.OData.Topic
+373;Long;0.0;Impossible;;373;Syria_336;347.0;336.0;;Syria;Topic;number;Cbs.OData.Topic
+418;Double;0.0;Impossible;;418;Syria_378;392.0;378.0;;Syria;Topic;number;Cbs.OData.Topic
+100;Long;0.0;Impossible;;100;Syria_84;74.0;84.0;;Syria;Topic;number;Cbs.OData.Topic
+135;Double;0.0;Impossible;;135;TheNetherlands_115;120.0;115.0;;The Netherlands;Topic;number;Cbs.OData.Topic
+180;Long;0.0;Impossible;;180;TheNetherlands_157;165.0;157.0;;The Netherlands;Topic;number;Cbs.OData.Topic
+226;Double;0.0;Impossible;;226;TheNetherlands_199;211.0;199.0;;The Netherlands;Topic;number;Cbs.OData.Topic
+271;Double;0.0;Impossible;;271;TheNetherlands_241;256.0;241.0;;The Netherlands;Topic;number;Cbs.OData.Topic
+317;Long;0.0;Impossible;;317;TheNetherlands_283;302.0;283.0;;The Netherlands;Topic;number;Cbs.OData.Topic
+362;Long;0.0;Impossible;;362;TheNetherlands_325;347.0;325.0;;The Netherlands;Topic;number;Cbs.OData.Topic
+407;Double;0.0;Impossible;;407;TheNetherlands_367;392.0;367.0;;The Netherlands;Topic;number;Cbs.OData.Topic
+89;Long;0.0;Impossible;;89;TheNetherlands_73;74.0;73.0;;The Netherlands;Topic;number;Cbs.OData.Topic
+291;Long;0.0;Impossible;Including country of birth unknown.;291;TotalAdministrativeEntries_258;290.0;258.0;;Total administrative entries;Topic;number;Cbs.OData.Topic
+303;Double;0.0;Impossible;Including country of birth unknown.;303;TotalAdministrativeEntries_269;302.0;269.0;;Total administrative entries;Topic;number;Cbs.OData.Topic
+336;Long;0.0;Impossible;Including country of birth unknown.;336;TotalAdministrativeRemovals_300;335.0;300.0;;Total administrative removals;Topic;number;Cbs.OData.Topic
+348;Double;0.0;Impossible;Including country of birth unknown.;348;TotalAdministrativeRemovals_311;347.0;311.0;;Total administrative removals;Topic;number;Cbs.OData.Topic
+496;Long;0.0;Impossible;;496;TotalDissolutions_438;495.0;438.0;;Total dissolutions;Topic;number;Cbs.OData.Topic
+501;Long;0.0;Impossible;;501;TotalDissolutions_442;500.0;442.0;;Total dissolutions;Topic;number;Cbs.OData.Topic
+121;Double;0.0;Impossible;"Total emigration including administrative corrections.
+Including country of birth unknown.";121;TotalEmigrationIncludingAdministra_101;120.0;101.0;;Total emigration including administra...;Topic;number;Cbs.OData.Topic
+109;Double;0.0;Impossible;Total emigration including administrative corrections.;109;TotalEmigrationIncludingAdministra_90;108.0;90.0;;Total emigration including administra...;Topic;number;Cbs.OData.Topic
+154;Long;0.0;Impossible;Including country of birth unknown.;154;TotalEmigration_132;153.0;132.0;;Total emigration;Topic;number;Cbs.OData.Topic
+166;Double;0.0;Impossible;Including country of birth unknown.;166;TotalEmigration_143;165.0;143.0;;Total emigration;Topic;number;Cbs.OData.Topic
+48;Double;0.0;Impossible;;48;TotalFemales_38;47.0;38.0;;Total females;Topic;number;Cbs.OData.Topic
+478;Long;0.0;Impossible;;478;TotalFemales_425;477.0;425.0;;Total females;Topic;number;Cbs.OData.Topic
+490;Long;0.0;Impossible;;490;TotalFemales_434;489.0;434.0;;Total females;Topic;number;Cbs.OData.Topic
+13;Double;3.0;Impossible;"Only yearly data available.
+
+Total fertility rate:
+The sum of the individual age specific fertility rates.
+This figure can be interpreted as the average number of children a woman would have if the age-specific fertility rates in a given year were to apply throughout her life.
+
+Age specific fertility rate
+The number of live-born children born by women of a particular age group in a given period related to the average number of women in that age group and period.";13;TotalFertilityRate_11;12.0;11.0;;Total Fertility Rate;Topic;number;Cbs.OData.Topic
+63;Long;0.0;Impossible;Including unknown countries of birth and children born in a Dutch asylum seekers' centre.;63;TotalImmigration_48;62.0;48.0;;Total immigration;Topic;number;Cbs.OData.Topic
+75;Double;0.0;Impossible;Including country of birth unknown and children born in a Dutch asylum seekers' centre.;75;TotalImmigration_59;74.0;59.0;;Total immigration;Topic;number;Cbs.OData.Topic
+15;Double;0.0;Impossible;;15;TotalLiveBornChildren_12;14.0;12.0;;Total live born children;Topic;number;Cbs.OData.Topic
+21;Double;0.0;Impossible;;21;TotalLiveBornChildren_17;20.0;17.0;;Total live born children;Topic;number;Cbs.OData.Topic
+32;Double;0.0;Impossible;;32;TotalMalesAndFemales_24;31.0;24.0;;Total males and females;Topic;number;Cbs.OData.Topic
+40;Double;0.0;Impossible;;40;TotalMales_31;39.0;31.0;;Total males;Topic;number;Cbs.OData.Topic
+472;Long;0.0;Impossible;;472;TotalMales_420;471.0;420.0;;Total males;Topic;number;Cbs.OData.Topic
+485;Long;0.0;Impossible;;485;TotalMales_430;484.0;430.0;;Total males;Topic;number;Cbs.OData.Topic
+456;Long;0.0;Impossible;Total contracted marriages and registered partnerships.;456;TotalMarriagesPartnerships_408;455.0;408.0;;Total marriages / partnerships;Topic;number;Cbs.OData.Topic
+461;Long;0.0;Impossible;;461;TotalMarriages_412;460.0;412.0;;Total marriages;Topic;number;Cbs.OData.Topic
+381;Double;0.0;Impossible;Including country of birth unknown.;381;TotalNetAdministrativeCorrections_342;380.0;342.0;;Total net administrative corrections;Topic;number;Cbs.OData.Topic
+393;Double;0.0;Impossible;Including country of birth unknown.;393;TotalNetAdministrativeCorrections_353;392.0;353.0;;Total net administrative corrections;Topic;number;Cbs.OData.Topic
+200;Double;0.0;Impossible;"Total net migration including administrative corrections.
+Including country of birth unknown.";200;TotalNetMigrationIncludingAdminis_174;199.0;174.0;;Total net migration including adminis...;Topic;number;Cbs.OData.Topic
+212;Double;0.0;Impossible;"Total net migration including administrative corrections.
+Including country of birth unknown.";212;TotalNetMigrationIncludingAdminis_185;211.0;185.0;;Total net migration including adminis...;Topic;number;Cbs.OData.Topic
+245;Double;0.0;Impossible;Including country of birth unknown.;245;TotalNetMigration_216;244.0;216.0;;Total net migration;Topic;number;Cbs.OData.Topic
+257;Double;0.0;Impossible;Including country of birth unknown.;257;TotalNetMigration_227;256.0;227.0;;Total net migration;Topic;number;Cbs.OData.Topic
+448;Long;0.0;Impossible;;448;TotalPersonsMovedBetweenProvinces_402;447.0;402.0;;Total persons moved between provinces;Topic;number;Cbs.OData.Topic
+433;Long;0.0;Impossible;Total of persons who moved within the same municipality.;433;TotalPersonsMovedWithinMunicipali_390;432.0;390.0;;Total persons moved within municipali...;Topic;number;Cbs.OData.Topic
+441;Long;0.0;Impossible;;441;TotalPersonsMovedWithinProvinces_396;440.0;396.0;;Total persons moved within provinces;Topic;number;Cbs.OData.Topic
+426;Long;0.0;Impossible;;426;TotalPersonsMoved_384;425.0;384.0;;Total persons moved;Topic;number;Cbs.OData.Topic
+8;Long;0.0;Impossible;"Population growth:
+The increase or decrease of the population.";8;TotalPopulationGrowth_7;1.0;7.0;;Total population growth;Topic;number;Cbs.OData.Topic
+466;Long;0.0;Impossible;;466;TotalRegisteredPartnerships_416;465.0;416.0;;Total registered partnerships;Topic;number;Cbs.OData.Topic
+512;Long;0.0;Impossible;;512;TotalRequestsForAsylum_450;511.0;450.0;;Total requests for asylum;Topic;number;Cbs.OData.Topic
+147;Double;0.0;Impossible;;147;Turkey_127;120.0;127.0;;Turkey;Topic;number;Cbs.OData.Topic
+192;Long;0.0;Impossible;;192;Turkey_169;165.0;169.0;;Turkey;Topic;number;Cbs.OData.Topic
+238;Double;0.0;Impossible;;238;Turkey_211;211.0;211.0;;Turkey;Topic;number;Cbs.OData.Topic
+283;Double;0.0;Impossible;;283;Turkey_253;256.0;253.0;;Turkey;Topic;number;Cbs.OData.Topic
+329;Long;0.0;Impossible;;329;Turkey_295;302.0;295.0;;Turkey;Topic;number;Cbs.OData.Topic
+374;Long;0.0;Impossible;;374;Turkey_337;347.0;337.0;;Turkey;Topic;number;Cbs.OData.Topic
+419;Double;0.0;Impossible;;419;Turkey_379;392.0;379.0;;Turkey;Topic;number;Cbs.OData.Topic
+524;Long;0.0;Impossible;;524;Turkey_462;511.0;462.0;;Turkey;Topic;number;Cbs.OData.Topic
+101;Long;0.0;Impossible;;101;Turkey_85;74.0;85.0;;Turkey;Topic;number;Cbs.OData.Topic
+148;Double;0.0;Impossible;;148;UnitedKingdom_128;120.0;128.0;;United Kingdom;Topic;number;Cbs.OData.Topic
+193;Long;0.0;Impossible;;193;UnitedKingdom_170;165.0;170.0;;United Kingdom;Topic;number;Cbs.OData.Topic
+239;Double;0.0;Impossible;;239;UnitedKingdom_212;211.0;212.0;;United Kingdom;Topic;number;Cbs.OData.Topic
+284;Double;0.0;Impossible;;284;UnitedKingdom_254;256.0;254.0;;United Kingdom;Topic;number;Cbs.OData.Topic
+330;Long;0.0;Impossible;;330;UnitedKingdom_296;302.0;296.0;;United Kingdom;Topic;number;Cbs.OData.Topic
+375;Long;0.0;Impossible;;375;UnitedKingdom_338;347.0;338.0;;United Kingdom;Topic;number;Cbs.OData.Topic
+420;Double;0.0;Impossible;;420;UnitedKingdom_380;392.0;380.0;;United Kingdom;Topic;number;Cbs.OData.Topic
+102;Long;0.0;Impossible;;102;UnitedKingdom_86;74.0;86.0;;United Kingdom;Topic;number;Cbs.OData.Topic
+149;Double;0.0;Impossible;United States, Hawai Islands.;149;UnitedStatesOfAmerica_129;120.0;129.0;;United States of America;Topic;number;Cbs.OData.Topic
+194;Long;0.0;Impossible;United States, Hawai Islands.;194;UnitedStatesOfAmerica_171;165.0;171.0;;United States of America;Topic;number;Cbs.OData.Topic
+240;Double;0.0;Impossible;United States, Hawai Islands.;240;UnitedStatesOfAmerica_213;211.0;213.0;;United States of America;Topic;number;Cbs.OData.Topic
+285;Double;0.0;Impossible;United States, Hawai Islands.;285;UnitedStatesOfAmerica_255;256.0;255.0;;United States of America;Topic;number;Cbs.OData.Topic
+331;Long;0.0;Impossible;United States, Hawai Islands.;331;UnitedStatesOfAmerica_297;302.0;297.0;;United States of America;Topic;number;Cbs.OData.Topic
+376;Long;0.0;Impossible;United States, Hawai Islands.;376;UnitedStatesOfAmerica_339;347.0;339.0;;United States of America;Topic;number;Cbs.OData.Topic
+421;Double;0.0;Impossible;United States, Hawai Islands.;421;UnitedStatesOfAmerica_381;392.0;381.0;;United States of America;Topic;number;Cbs.OData.Topic
+103;Long;0.0;Impossible;United States, Hawai Islands.;103;UnitedStatesOfAmerica_87;74.0;87.0;;United States of America;Topic;number;Cbs.OData.Topic
+160;Long;0.0;Impossible;"Until 2010, persons whose country of birth was unknown were assumed to have the same country of birth as their father or mother (if their country of birth was known). Since 2010, this procedure is discontinued in the provisional monthly figures. As a result, the number of persons whose country of birth is unknown has increased. This may affect the provisional figures of all countries of birth in the table.
+";160;Unknown_138;153.0;138.0;;Unknown;Topic;number;Cbs.OData.Topic
+206;Double;0.0;Impossible;"Until 2010, persons whose country of birth was unknown were assumed to have the same country of birth as their father or mother (if their country of birth was known). Since 2010, this procedure is discontinued in the provisional monthly figures. As a result, the number of persons whose country of birth is unknown has increased. This may affect the provisional figures of all countries of birth in the table.
+";206;Unknown_180;199.0;180.0;;Unknown;Topic;number;Cbs.OData.Topic
+251;Double;0.0;Impossible;"Until 2010, persons whose country of birth was unknown were assumed to
+have the same country of birth as their father or mother (if their
+country of birth was known). Since 2010, this procedure is discontinued
+in the provisional monthly figures. As a result, the number of persons
+whose country of birth is unknown has increased. This may affect the
+provisional figures of all countries of birth in the table.
+.";251;Unknown_222;244.0;222.0;;Unknown;Topic;number;Cbs.OData.Topic
+297;Long;0.0;Impossible;"Until 2010, persons whose country of birth was unknown were assumed to
+have the same country of birth as their father or mother (if their
+country of birth was known). Since 2010, this procedure is discontinued
+in the provisional monthly figures. As a result, the number of persons
+whose country of birth is unknown has increased. This may affect the
+provisional figures of all countries of birth in the table.
+.";297;Unknown_264;290.0;264.0;;Unknown;Topic;number;Cbs.OData.Topic
+342;Long;0.0;Impossible;"Until 2010, persons whose country of birth was unknown were assumed to
+have the same country of birth as their father or mother (if their
+country of birth was known). Since 2010, this procedure is discontinued
+in the provisional monthly figures. As a result, the number of persons
+whose country of birth is unknown has increased. This may affect the
+provisional figures of all countries of birth in the table.
+.";342;Unknown_306;335.0;306.0;;Unknown;Topic;number;Cbs.OData.Topic
+387;Double;0.0;Impossible;"Until 2010, persons whose country of birth was unknown were assumed to
+have the same country of birth as their father or mother (if their
+country of birth was known). Since 2010, this procedure is discontinued
+in the provisional monthly figures. As a result, the number of persons
+whose country of birth is unknown has increased. This may affect the
+provisional figures of all countries of birth in the table.
+.";387;Unknown_348;380.0;348.0;;Unknown;Topic;number;Cbs.OData.Topic
+69;Long;0.0;Impossible;"Until 2010, persons whose country of birth was unknown were assumed to have the same country of birth as their father or mother (if their country of birth was known). Since 2010, this procedure is discontinued in the provisional monthly figures. As a result, the number of persons whose country of birth is unknown has increased. This may affect the provisional figures of all countries of birth in the table.
+";69;Unknown_54;62.0;54.0;;Unknown;Topic;number;Cbs.OData.Topic
+115;Double;0.0;Impossible;"Until 2010, persons whose country of birth was unknown were assumed to have the same country of birth as their father or mother (if their country of birth was known). Since 2010, this procedure is discontinued in the provisional monthly figures. As a result, the number of persons whose country of birth is unknown has increased. This may affect the provisional figures of all countries of birth in the table.
+";115;Unknown_96;108.0;96.0;;Unknown;Topic;number;Cbs.OData.Topic
+475;Long;0.0;Impossible;"Widowed after a legal marriage and widowed after a partnership.
+
+Widowed after a legal marriage:
+Marital status resulting from death ending a legal marriage.
+
+Widowed after a partnership:
+Marital status resulting from death ending a registered partnership.";475;Widowed_423;471.0;423.0;;Widowed;Topic;number;Cbs.OData.Topic
+481;Long;0.0;Impossible;"Widowed after a legal marriage:
+Marital status resulting from death ending a legal marriage.
+
+Widowed after a partnership:
+Marital status resulting from death ending a registered partnership.";481;Widowed_428;477.0;428.0;;Widowed;Topic;number;Cbs.OData.Topic
+487;Long;0.0;Impossible;Marital status resulting from death ending a legal marriage or registered partnership.;487;Widowed_432;484.0;432.0;;Widowed;Topic;number;Cbs.OData.Topic
+492;Long;0.0;Impossible;Marital status resulting from death ending a legal marriage or registered partnership.;492;Widowed_436;489.0;436.0;;Widowed;Topic;number;Cbs.OData.Topic
+150;Double;0.0;Impossible;Bosnia and Herzegovina, Croatia, Federal Republic of Yugoslavia, Kosovo, Serbia, Serbia and Montenegro, Macedonia, Montenegro, Slovenia, Yugoslavia.;150;YugoslaviaFormer_130;120.0;130.0;;Yugoslavia (former);Topic;number;Cbs.OData.Topic
+195;Long;0.0;Impossible;Bosnia and Herzegovina, Croatia, Federal Republic of Yugoslavia, Kosovo, Serbia, Serbia and Montenegro, Macedonia, Montenegro, Slovenia, Yugoslavia.;195;YugoslaviaFormer_172;165.0;172.0;;Yugoslavia (former);Topic;number;Cbs.OData.Topic
+241;Double;0.0;Impossible;Bosnia and Herzegovina, Croatia, Federal Republic of Yugoslavia, Kosovo, Serbia, Serbia and Montenegro, Macedonia, Montenegro, Slovenia, Yugoslavia.;241;YugoslaviaFormer_214;211.0;214.0;;Yugoslavia (former);Topic;number;Cbs.OData.Topic
+286;Double;0.0;Impossible;Bosnia and Herzegovina, Croatia, Federal Republic of Yugoslavia, Kosovo, Serbia, Serbia and Montenegro, Macedonia, Montenegro, Slovenia, Yugoslavia.;286;YugoslaviaFormer_256;256.0;256.0;;Yugoslavia (former);Topic;number;Cbs.OData.Topic
+332;Long;0.0;Impossible;"Bosnia and Herzegovina, Croatia, Federal Republic of Yugoslavia,
+Kosovo, Serbia, Serbia and Montenegro, Macedonia, Montenegro, Slovenia,
+Yugoslavia.";332;YugoslaviaFormer_298;302.0;298.0;;Yugoslavia (former);Topic;number;Cbs.OData.Topic
+377;Long;0.0;Impossible;"Bosnia and Herzegovina, Croatia, Federal Republic of Yugoslavia,
+Kosovo, Serbia, Serbia and Montenegro, Macedonia, Montenegro, Slovenia,
+Yugoslavia.";377;YugoslaviaFormer_340;347.0;340.0;;Yugoslavia (former);Topic;number;Cbs.OData.Topic
+422;Double;0.0;Impossible;"Bosnia and Herzegovina, Croatia, Federal Republic of Yugoslavia,
+Kosovo, Serbia, Serbia and Montenegro, Macedonia, Montenegro, Slovenia,
+Yugoslavia.";422;YugoslaviaFormer_382;392.0;382.0;;Yugoslavia (former);Topic;number;Cbs.OData.Topic
+104;Long;0.0;Impossible;Bosnia and Herzegovina, Croatia, Federal Republic of Yugoslavia, Kosovo, Serbia, Serbia and Montenegro, Macedonia, Montenegro, Slovenia, Yugoslavia.;104;YugoslaviaFormer_88;74.0;88.0;;Yugoslavia (former);Topic;number;Cbs.OData.Topic
+33;Double;0.0;Impossible;;33;k_0To20Years_25;31.0;25.0;;0 to 20 years;Topic;number;Cbs.OData.Topic
+41;Long;0.0;Impossible;;41;k_0To20Years_32;39.0;32.0;;0 to 20 years;Topic;number;Cbs.OData.Topic
+49;Long;0.0;Impossible;;49;k_0To20Years_39;47.0;39.0;;0 to 20 years;Topic;number;Cbs.OData.Topic
+16;Long;0.0;Impossible;;16;k_1stChild_13;14.0;13.0;;1st child;Topic;number;Cbs.OData.Topic
+34;Double;0.0;Impossible;;34;k_20To40Years_26;31.0;26.0;;20 to 40 years;Topic;number;Cbs.OData.Topic
+42;Long;0.0;Impossible;;42;k_20To40Years_33;39.0;33.0;;20 to 40 years;Topic;number;Cbs.OData.Topic
+50;Long;0.0;Impossible;;50;k_20To40Years_40;47.0;40.0;;20 to 40 years;Topic;number;Cbs.OData.Topic
+17;Long;0.0;Impossible;;17;k_2ndChild_14;14.0;14.0;;2nd child;Topic;number;Cbs.OData.Topic
+18;Long;0.0;Impossible;;18;k_3rdChild_15;14.0;15.0;;3rd child;Topic;number;Cbs.OData.Topic
+35;Double;0.0;Impossible;;35;k_40To60Years_27;31.0;27.0;;40 to 60 years;Topic;number;Cbs.OData.Topic
+43;Long;0.0;Impossible;;43;k_40To60Years_34;39.0;34.0;;40 to 60 years;Topic;number;Cbs.OData.Topic
+51;Long;0.0;Impossible;;51;k_40To60Years_41;47.0;41.0;;40 to 60 years;Topic;number;Cbs.OData.Topic
+19;Long;0.0;Impossible;;19;k_4thOrFollowingChild_16;14.0;16.0;;4th or following child;Topic;number;Cbs.OData.Topic
+36;Double;0.0;Impossible;;36;k_60To80Years_28;31.0;28.0;;60 to 80 years;Topic;number;Cbs.OData.Topic
+44;Long;0.0;Impossible;;44;k_60To80Years_35;39.0;35.0;;60 to 80 years;Topic;number;Cbs.OData.Topic
+52;Long;0.0;Impossible;;52;k_60To80Years_42;47.0;42.0;;60 to 80 years;Topic;number;Cbs.OData.Topic
+37;Double;0.0;Impossible;;37;k_80To90Years_29;31.0;29.0;;80 to 90 years;Topic;number;Cbs.OData.Topic
+45;Long;0.0;Impossible;;45;k_80To90Years_36;39.0;36.0;;80 to 90 years;Topic;number;Cbs.OData.Topic
+53;Long;0.0;Impossible;;53;k_80To90Years_43;47.0;43.0;;80 to 90 years;Topic;number;Cbs.OData.Topic
+38;Double;0.0;Impossible;;38;k_90YearsOrOlder_30;31.0;30.0;;90 years or older;Topic;number;Cbs.OData.Topic
+46;Long;0.0;Impossible;;46;k_90YearsOrOlder_37;39.0;37.0;;90 years or older;Topic;number;Cbs.OData.Topic
+54;Long;0.0;Impossible;;54;k_90YearsOrOlder_44;47.0;44.0;;90 years or older;Topic;number;Cbs.OData.Topic
