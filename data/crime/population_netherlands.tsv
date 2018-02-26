@@ -1,0 +1,391 @@
+Municipality	CBScode	Province	Population	Population_density(p/km)
+Appingedam	GM0003	Groningen	12049	507
+Bedum	GM0005	Groningen	10475	236
+Bellingwedde	GM0007	Groningen	8908	86
+Boer, TenTen Boer	GM0009	Groningen	7465	165
+Delfzijl	GM0010	Groningen	25686	198
+Groningen	GM0014	Groningen	198108	2474
+Grootegast	GM0015	Groningen	12193	141
+Haren	GM0017	Groningen	18790	405
+Hoogezand-Sappemeer	GM0018	Groningen	34360	521
+Leek	GM0022	Groningen	19607	307
+Loppersum	GM0024	Groningen	10181	93
+Marum	GM0025	Groningen	10350	161
+Almere	GM0034	Flevoland	196156	1490
+Stadskanaal	GM0037	Groningen	32793	280
+Slochteren	GM0040	Groningen	15535	103
+Veendam	GM0047	Groningen	27795	367
+Vlagtwedde	GM0048	Groningen	15899	97
+Zeewolde	GM0050	Flevoland	21543	86
+Winsum	GM0053	Groningen	13843	138
+Zuidhorn	GM0056	Groningen	18767	149
+Dongeradeel	GM0058	Friesland	24183	145
+Achtkarspelen	GM0059	Friesland	28002	274
+Ameland	GM0060	Friesland	3565	60
+Bildt, hethet Bildt	GM0063	Friesland	10633	117
+Franekeradeel	GM0070	Friesland	20437	200
+Harlingen	GM0072	Friesland	15810	633
+Heerenveen	GM0074	Friesland	49388	273
+Kollumerland en Nieuwkruisland	GM0079	Friesland	12856	118
+Leeuwarden	GM0080	Friesland	108113	713
+Leeuwarderadeel	GM0081	Friesland	10275	253
+Ooststellingwerf	GM0085	Friesland	25672	115
+Opsterland	GM0086	Friesland	29894	133
+Schiermonnikoog	GM0088	Friesland	938	21
+Smallingerland	GM0090	Friesland	55496	469
+Terschelling	GM0093	Friesland	4769	55
+Vlieland	GM0096	Friesland	1097	31
+Weststellingwerf	GM0098	Friesland	25487	117
+Assen	GM0106	Drenthe	67209	820
+Coevorden	GM0109	Drenthe	35771	121
+Emmen	GM0114	Drenthe	108003	324
+Hoogeveen	GM0118	Drenthe	54680	430
+Meppel	GM0119	Drenthe	32875	585
+Littenseradiel	GM0140	Friesland	10929	84
+Almelo	GM0141	Overijssel	72435	1079
+Borne	GM0147	Overijssel	21901	830
+Dalfsen	GM0148	Overijssel	27655	166
+Deventer	GM0150	Overijssel	98327	752
+Enschede	GM0153	Overijssel	158542	1121
+Haaksbergen	GM0158	Overijssel	24357	233
+Hardenberg	GM0160	Overijssel	59592	190
+Hellendoorn	GM0163	Overijssel	35697	259
+Hengelo	GM0164	Overijssel	80975	1329
+Kampen	GM0166	Overijssel	51069	355
+Losser	GM0168	Overijssel	22619	229
+Noordoostpolder	GM0171	Flevoland	46372	101
+Oldenzaal	GM0173	Overijssel	32152	1493
+Ommen	GM0175	Overijssel	17370	97
+Raalte	GM0177	Overijssel	36526	214
+Staphorst	GM0180	Overijssel	16365	121
+Tubbergen	GM0183	Overijssel	21216	144
+Urk	GM0184	Flevoland	19487	1644
+Wierden	GM0189	Overijssel	23906	251
+Zwolle	GM0193	Overijssel	123211	1091
+Rijnwaarden	GM0196	Gelderland	10926	276
+Aalten	GM0197	Gelderland	27030	283
+Apeldoorn	GM0200	Gelderland	157535	462
+Arnhem	GM0202	Gelderland	150817	1523
+Barneveld	GM0203	Gelderland	54176	304
+Beuningen	GM0209	Gelderland	25254	582
+Brummen	GM0213	Gelderland	21169	254
+Buren	GM0214	Gelderland	25995	193
+Culemborg	GM0216	Gelderland	27579	939
+Doesburg	GM0221	Gelderland	11449	1002
+Doetinchem	GM0222	Gelderland	56350	711
+Druten	GM0225	Gelderland	18206	482
+Duiven	GM0226	Gelderland	25580	752
+Ede	GM0228	Gelderland	110657	342
+Elburg	GM0230	Gelderland	22658	351
+Epe	GM0232	Gelderland	32352	208
+Ermelo	GM0233	Gelderland	26080	305
+Geldermalsen	GM0236	Gelderland	26339	263
+Harderwijk	GM0243	Gelderland	45741	1177
+Hattem	GM0244	Gelderland	11742	511
+Heerde	GM0246	Gelderland	18515	232
+Heumen	GM0252	Gelderland	16342	412
+Lochem	GM0262	Gelderland	33268	156
+Maasdriel	GM0263	Gelderland	24197	364
+Nijkerk	GM0267	Gelderland	40600	578
+Nijmegen	GM0268	Gelderland	168499	3081
+Oldebroek	GM0269	Gelderland	22824	233
+Putten	GM0273	Gelderland	24044	280
+Renkum	GM0274	Gelderland	31577	687
+Rheden	GM0275	Gelderland	43563	533
+Rozendaal	GM0277	Gelderland	1500	54
+Scherpenzeel	GM0279	Gelderland	9496	679
+Tiel	GM0281	Gelderland	41729	1287
+Voorst	GM0285	Gelderland	23801	193
+Wageningen	GM0289	Gelderland	37511	1215
+Westervoort	GM0293	Gelderland	15147	2168
+Winterswijk	GM0294	Gelderland	28873	210
+Wijchen	GM0296	Gelderland	41010	613
+Zaltbommel	GM0297	Gelderland	27207	336
+Zevenaar	GM0299	Gelderland	32254	609
+Zutphen	GM0301	Gelderland	47154	1150
+Nunspeet	GM0302	Gelderland	26707	207
+Dronten	GM0303	Flevoland	40451	121
+Neerijnen	GM0304	Gelderland	12022	181
+Amersfoort	GM0307	Utrecht	150943	2358
+Baarn	GM0308	Utrecht	24344	749
+Bilt, DeDe Bilt	GM0310	Utrecht	42013	635
+Bunnik	GM0312	Utrecht	14619	391
+Bunschoten	GM0313	Utrecht	20547	664
+Eemnes	GM0317	Utrecht	8773	284
+Houten	GM0321	Utrecht	48427	872
+Leusden	GM0327	Utrecht	28967	493
+Lopik	GM0331	Utrecht	14000	185
+Montfoort	GM0335	Utrecht	13639	361
+Renswoude	GM0339	Utrecht	4928	262
+Rhenen	GM0340	Utrecht	19123	453
+Soest	GM0342	Utrecht	45430	986
+Utrecht	GM0344	Utrecht	328577	3353
+Veenendaal	GM0345	Utrecht	63207	3222
+Woudenberg	GM0351	Utrecht	12386	329
+Wijk bij Duurstede	GM0352	Utrecht	23031	485
+IJsselstein	GM0353	Utrecht	34268	1620
+Zeist	GM0355	Utrecht	61337	1262
+Nieuwegein	GM0356	Utrecht	61017	2566
+Aalsmeer	GM0358	North Holland	30792	1486
+Alkmaar	GM0361	North Holland	94906	3222
+Amstelveen	GM0362	North Holland	85135	2011
+Amsterdam	GM0363	North Holland	853312	4767
+Beemster	GM0370	North Holland	8919	124
+Bergen (NH)	GM0373	North Holland	30075	316
+Beverwijk	GM0375	North Holland	40052	2172
+Blaricum	GM0376	North Holland	9112	813
+Bloemendaal	GM0377	North Holland	22077	555
+Castricum	GM0383	North Holland	34244	694
+Diemen	GM0384	North Holland	25980	2080
+Edam-Volendam	GM0385	North Holland	28934	1760
+Enkhuizen	GM0388	North Holland	18395	1471
+Haarlem	GM0392	North Holland	155205	5195
+Haarlemmerliede en Spaarnwoude	GM0393	North Holland	5547	284
+Haarlemmermeer	GM0394	North Holland	144166	806
+Heemskerk	GM0396	North Holland	39092	1441
+Heemstede	GM0397	North Holland	26320	2848
+Heerhugowaard	GM0398	North Holland	53246	1367
+Heiloo	GM0399	North Holland	22626	1211
+Helder, DenDen Helder	GM0400	North Holland	56553	1261
+Hilversum	GM0402	North Holland	86574	1875
+Hoorn	GM0405	North Holland	71741	3519
+Huizen	GM0406	North Holland	41239	2629
+Landsmeer	GM0415	North Holland	10457	458
+Langedijk	GM0416	North Holland	26984	1123
+Laren	GM0417	North Holland	10846	915
+Medemblik	GM0420	North Holland	43331	354
+Oostzaan	GM0431	North Holland	9154	789
+Opmeer	GM0432	North Holland	11374	274
+Ouder-Amstel	GM0437	North Holland	13255	548
+Purmerend	GM0439	North Holland	79552	3389
+Schagen	GM0441	North Holland	46016	273
+Texel	GM0448	North Holland	13566	85
+Uitgeest	GM0450	North Holland	13242	672
+Uithoorn	GM0451	North Holland	28407	1552
+Velsen	GM0453	North Holland	67231	1503
+Weesp	GM0457	North Holland	18231	879
+Zandvoort	GM0473	North Holland	16588	519
+Zaanstad	GM0479	North Holland	150911	2007
+Alblasserdam	GM0482	South Holland	19822	2216
+Alphen aan den Rijn	GM0484	South Holland	106809	844
+Barendrecht	GM0489	South Holland	47375	2373
+Drechterland	GM0498	North Holland	19257	327
+Brielle	GM0501	South Holland	16306	583
+Capelle aan den IJssel	GM0502	South Holland	66177	4640
+Delft	GM0503	South Holland	101493	4218
+Dordrecht	GM0505	South Holland	118716	1504
+Gorinchem	GM0512	South Holland	35252	1855
+Gouda	GM0513	South Holland	70923	4225
+Hague, TheThe Hague	GM0518	South Holland	508592	6131
+Hardinxveld-Giessendam	GM0523	South Holland	17736	1043
+Hellevoetsluis	GM0530	South Holland	38918	1250
+Hendrik-Ido-Ambacht	GM0531	South Holland	28952	2648
+Stede Broec	GM0532	North Holland	21474	1467
+Hillegom	GM0534	South Holland	20987	1613
+Katwijk	GM0537	South Holland	62825	2546
+Krimpen aan den IJssel	GM0542	South Holland	28814	3681
+Leerdam	GM0545	South Holland	20586	612
+Leiden	GM0546	South Holland	121199	5409
+Leiderdorp	GM0547	South Holland	26788	2313
+Lisse	GM0553	South Holland	22376	1435
+Maassluis	GM0556	South Holland	32097	3751
+Nieuwkoop	GM0569	South Holland	27114	342
+Noordwijk	GM0575	South Holland	25689	719
+Noordwijkerhout	GM0576	South Holland	15982	692
+Oegstgeest	GM0579	South Holland	22855	3123
+Oud-Beijerland	GM0584	South Holland	23727	1249
+Binnenmaas	GM0585	South Holland	28682	418
+Korendijk	GM0588	South Holland	10693	140
+Oudewater	GM0589	Utrecht	9868	252
+Papendrecht	GM0590	South Holland	32140	3380
+Ridderkerk	GM0597	South Holland	45207	1904
+Rotterdam	GM0599	South Holland	618467	2952
+Rijswijk	GM0603	South Holland	47680	3344
+Schiedam	GM0606	South Holland	76487	4230
+Sliedrecht	GM0610	South Holland	24528	1888
+Cromstrijen	GM0611	South Holland	12748	235
+Albrandswaard	GM0613	South Holland	25044	1143
+Westvoorne	GM0614	South Holland	13977	261
+Strijen	GM0617	South Holland	8678	174
+Vianen	GM0620	Utrecht	19573	499
+Vlaardingen	GM0622	South Holland	71059	3005
+Voorschoten	GM0626	South Holland	24941	2179
+Waddinxveen	GM0627	South Holland	25520	906
+Wassenaar	GM0629	South Holland	25786	506
+Woerden	GM0632	Utrecht	50607	560
+Zoetermeer	GM0637	South Holland	123614	3540
+Zoeterwoude	GM0638	South Holland	8089	384
+Zwijndrecht	GM0642	South Holland	44546	2187
+Borsele	GM0654	Zeeland	22592	160
+Goes	GM0664	Zeeland	36977	398
+West Maas en Waal	GM0668	Gelderland	18391	237
+Hulst	GM0677	Zeeland	27402	137
+Kapelle	GM0678	Zeeland	12508	334
+Middelburg	GM0687	Zeeland	47660	984
+Giessenlanden	GM0689	South Holland	14423	228
+Reimerswaal	GM0703	Zeeland	21915	213
+Zederik	GM0707	South Holland	13661	182
+Terneuzen	GM0715	Zeeland	54711	218
+Tholen	GM0716	Zeeland	25398	174
+Veere	GM0717	Zeeland	21882	165
+Vlissingen	GM0718	Zeeland	44450	1302
+Lingewaal	GM0733	Gelderland	11059	216
+Ronde Venen, DeDe Ronde Venen	GM0736	Utrecht	42648	426
+Tytsjerksteradiel	GM0737	Friesland	31980	215
+Aalburg	GM0738	North Brabant	12859	253
+Asten	GM0743	North Brabant	16479	234
+Baarle-Nassau	GM0744	North Brabant	6617	88
+Bergen op Zoom	GM0748	North Brabant	66423	826
+Best	GM0753	North Brabant	28594	836
+Boekel	GM0755	North Brabant	10089	289
+Boxmeer	GM0756	North Brabant	28135	255
+Boxtel	GM0757	North Brabant	30325	475
+Breda	GM0758	North Brabant	179999	1400
+Deurne	GM0762	North Brabant	31669	271
+Pekela	GM0765	Groningen	12733	262
+Dongen	GM0766	North Brabant	25389	861
+Eersel	GM0770	North Brabant	18201	220
+Eindhoven	GM0772	North Brabant	220782	2476
+Etten-Leur	GM0777	North Brabant	42351	760
+Geertruidenberg	GM0779	North Brabant	21597	806
+Gilze en Rijen	GM0784	North Brabant	26013	391
+Goirle	GM0785	North Brabant	23060	542
+Grave	GM0786	North Brabant	12696	471
+Haaren	GM0788	North Brabant	13578	236
+Helmond	GM0794	North Brabant	89346	1668
+Hertogenbosch !'s-Hertogenbosch	GM0796	North Brabant	143745	1680
+Heusden	GM0797	North Brabant	43180	547
+Hilvarenbeek	GM0798	North Brabant	15082	159
+Loon op Zand	GM0809	North Brabant	23104	460
+Mill en Sint Hubert	GM0815	North Brabant	10843	209
+Nuenen, Gerwen en Nederwetten	GM0820	North Brabant	22596	669
+Oirschot	GM0823	North Brabant	17989	175
+Oisterwijk	GM0824	North Brabant	25835	403
+Oosterhout	GM0826	North Brabant	53733	756
+Oss	GM0828	North Brabant	85039	555
+Rucphen	GM0840	North Brabant	22213	347
+Schijndel	GM0844	North Brabant	23360	554
+Sint-Michielsgestel	GM0845	North Brabant	28186	481
+Sint-Oedenrode	GM0846	North Brabant	17944	278
+Someren	GM0847	North Brabant	18700	231
+Son en Breugel	GM0848	North Brabant	16241	610
+Steenbergen	GM0851	North Brabant	23409	159
+Waterland	GM0852	North Holland	17154	326
+Tilburg	GM0855	North Brabant	210382	1770
+Uden	GM0856	North Brabant	40934	609
+Valkenswaard	GM0858	North Brabant	30353	557
+Veghel	GM0860	North Brabant	37550	480
+Veldhoven	GM0861	North Brabant	44136	1383
+Vught	GM0865	North Brabant	25626	770
+Waalre	GM0866	North Brabant	16804	737
+Waalwijk	GM0867	North Brabant	46515	719
+Werkendam	GM0870	North Brabant	26400	253
+Woensdrecht	GM0873	North Brabant	21654	237
+Woudrichem	GM0874	North Brabant	14407	292
+Zundert	GM0879	North Brabant	21374	176
+Wormerland	GM0880	North Holland	15751	407
+Onderbanken	GM0881	Limburg	7882	376
+Landgraaf	GM0882	Limburg	37530	1549
+Beek	GM0888	Limburg	16268	783
+Beesel	GM0889	Limburg	13593	488
+Bergen (LI)	GM0893	Limburg	13230	128
+Brunssum	GM0899	Limburg	28914	1697
+Gennep	GM0907	Limburg	17285	364
+Heerlen	GM0917	Limburg	88202	1977
+Kerkrade	GM0928	Limburg	46773	2159
+Maastricht	GM0935	Limburg	122331	2131
+Meerssen	GM0938	Limburg	19259	716
+Mook en Middelaar	GM0944	Limburg	7783	453
+Nederweert	GM0946	Limburg	16773	167
+Nuth	GM0951	Limburg	15577	473
+Roermond	GM0957	Limburg	57030	923
+Schinnen	GM0962	Limburg	12961	549
+Simpelveld	GM0965	Limburg	10844	681
+Stein	GM0971	Limburg	25348	1211
+Vaals	GM0981	Limburg	9682	409
+Venlo	GM0983	Limburg	100381	800
+Venray	GM0984	Limburg	43120	263
+Voerendaal	GM0986	Limburg	12447	402
+Weert	GM0988	Limburg	48727	466
+Valkenburg aan de Geul	GM0994	Limburg	16668	461
+Lelystad	GM0995	Flevoland	76170	325
+Horst aan de Maas	GM1507	Limburg	41718	222
+Oude IJsselstreek	GM1509	Gelderland	39614	292
+Teylingen	GM1525	South Holland	35723	1250
+Utrechtse Heuvelrug	GM1581	Utrecht	47939	365
+Oost Gelre	GM1586	Gelderland	29648	274
+Koggenland	GM1598	North Holland	22473	278
+Lansingerland	GM1621	South Holland	57188	1018
+Leudal	GM1640	Limburg	36213	224
+Maasgouw	GM1641	Limburg	23888	526
+Eemsmond	GM1651	Groningen	15910	86
+Gemert-Bakel	GM1652	North Brabant	29354	237
+Halderberge	GM1655	North Brabant	29379	393
+Heeze-Leende	GM1658	North Brabant	15376	148
+Laarbeek	GM1659	North Brabant	21815	390
+Marne, DeDe Marne	GM1663	Groningen	10205	62
+Reusel-De Mierden	GM1667	North Brabant	12728	162
+Roerdalen	GM1669	Limburg	20808	239
+Roosendaal	GM1674	North Brabant	76930	728
+Schouwen-Duiveland	GM1676	Zeeland	33821	148
+Aa en Hunze	GM1680	Drenthe	25243	93
+Borger-Odoorn	GM1681	Drenthe	25633	94
+Cuijk	GM1684	North Brabant	24780	481
+Landerd	GM1685	North Brabant	15262	214
+Wolden, DeDe Wolden	GM1690	Drenthe	23592	106
+Noord-Beveland	GM1695	Zeeland	7508	88
+Wijdemeren	GM1696	North Holland	23170	487
+Noordenveld	GM1699	Drenthe	31110	154
+Twenterand	GM1700	Overijssel	33939	319
+Westerveld	GM1701	Drenthe	18902	69
+Sint Anthonis	GM1702	North Brabant	11696	119
+Lingewaard	GM1705	Gelderland	45814	735
+Cranendonck	GM1706	North Brabant	20388	267
+Steenwijkerland	GM1708	Overijssel	43372	150
+Moerdijk	GM1709	North Brabant	36775	229
+Echt-Susteren	GM1711	Limburg	31940	312
+Sluis	GM1714	Zeeland	23795	85
+Drimmelen	GM1719	North Brabant	26705	277
+Bernheze	GM1721	North Brabant	29703	332
+Ferwerderadiel	GM1722	Friesland	8771	90
+Alphen-Chaam	GM1723	North Brabant	9712	102
+Bergeijk	GM1724	North Brabant	18250	179
+Bladel	GM1728	North Brabant	19825	260
+Gulpen-Wittem	GM1729	Limburg	14492	198
+Tynaarlo	GM1730	Drenthe	32506	225
+Midden-Drenthe	GM1731	Drenthe	33368	98
+Overbetuwe	GM1734	Gelderland	46653	423
+Hof van Twente	GM1735	Overijssel	34987	167
+Neder-Betuwe	GM1740	Gelderland	22591	373
+Rijssen-Holten	GM1742	Overijssel	37696	399
+Geldrop-Mierlo	GM1771	North Brabant	38854	1247
+Olst-Wijhe	GM1773	Overijssel	17760	155
+Dinkelland	GM1774	Overijssel	25937	148
+Westland	GM1783	South Holland	103335	1282
+Midden-Delfland	GM1842	South Holland	18449	385
+Berkelland	GM1859	Gelderland	44650	174
+Bronckhorst	GM1876	Gelderland	36941	132
+Sittard-Geleen	GM1883	Limburg	93806	1196
+Kaag en Braassem	GM1884	South Holland	25758	406
+Dantumadiel	GM1891	Friesland	19035	226
+Zuidplas	GM1892	South Holland	40878	685
+Peel en Maas	GM1894	Limburg	43298	271
+Oldambt	GM1895	Groningen	38558	172
+Zwartewaterland	GM1896	Overijssel	22148	267
+Súdwest-Fryslân	GM1900	Friesland	84258	183
+Bodegraven-Reeuwijk	GM1901	South Holland	32986	434
+Eijsden-Margraten	GM1903	Limburg	24980	323
+Stichtse Vecht	GM1904	Utrecht	63823	655
+Menameradiel	GM1908	Friesland	13653	200
+Hollands Kroon	GM1911	North Holland	47501	133
+Leidschendam-Voorburg	GM1916	South Holland	73392	2214
+Goeree-Overflakkee	GM1924	South Holland	48233	184
+Pijnacker-Nootdorp	GM1926	South Holland	51068	1341
+Molenwaard	GM1927	South Holland	29043	246
+Nissewaard	GM1930	South Holland	85083	1034
+Krimpenerwaard	GM1931	South Holland	54287	337
+De Fryske Marren	GM1940	Friesland	51223	142
+Gooise Meren	GM1942	North Holland	56687	1018
+Berg en Dal	GM1945	Gelderland	18956	428
+Montferland	GM1955	Gelderland	34985	332
+Menterwolde	GM1987	Groningen	12250	154
