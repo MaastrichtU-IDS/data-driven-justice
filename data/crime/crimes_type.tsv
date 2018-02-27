@@ -1,0 +1,25 @@
+	CategoryGroupID	Description	Key	Title	CrimeType
+0			T001160	Alle misdrijven	all crimes
+1			A025248	HIC: High Impact Criminaliteit - totaal	HIC: High Impact Crime - total
+2			A025249	HIC: Diefstal/inbraak woning, totaal	HIC: Theft / burglary dwelling, total
+3			A028970	  HIC: Diefstal/inbraak woning, voltooid	  HIC: Theft / burglary dwelling, complete
+4			A025250	  HIC: Diefstal/inbraak woning, pogingen	  HIC: Theft / burglary dwelling, attempts
+5			A025251	HIC: Geweldsmisdrijven	HIC: Violent Crime
+6			A025253	HIC: Straatroof	HIC: Street Roof
+7			A028971	HIC: Overvallen	HIC: Robberies
+8			A025239	Aantasting openbare orde	Undermining public order
+9			A025240	Bedreiging	Threat
+10			A025241	Brand/ontploffing	Fire / Explosion
+11			A025243	Diefstal van brom-, snor-, fietsen	Theft of moped, moped, bike
+12			A025242	Diefstal uit/vanaf motorvoertuigen	Theft of / from vehicles
+13			A025244	Diefstal van motorvoertuigen	Theft of motor vehicles
+14			A025245	Diefstal/inbraak bedrijven/instellingen	Theft / burglary companies / institutions
+15			A025246	Diefstal/inbraak garage/schuur/tuinhuis	Theft / burglary garage / barn / shed
+16			A025247	Drugshandel	Drug trafficking
+17			A025254	Huisvredebreuk	Trespassing
+18			A025255	Mishandeling	mistreatment
+19			A025256	Openlijk geweld (persoon)	Overt violence (person)
+20			A025257	Vernieling cq. zaakbeschadiging	Or destruction. cause damage
+21			A025258	Wapenhandel	Arms Trade
+22			A025259	Zakkenrollerij	pickpocketing
+23			A025260	Zedenmisdrijf	morals Felony
