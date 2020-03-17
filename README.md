@@ -1,7 +1,5 @@
 # Data Driven Justice Challenge
 
-More information [rethinkingjustice.eu](http://rethinkingjustice.eu/home/the-challenges/data-driven-justice/)
-
 ![](img/challenge.png)
 
 The rise of open data coupled with increasingly powerful methods in data science and artificial intelligence offers unparalleled opportunities to gain insight into, and make predictions of, human criminal behaviour. Simultaneously, we have a collective responsibility to ensure that data and methods are used in a responsible manner. Data-driven justice aims to harness the power of big data and cutting-edge data science technologies to find ways to maximize fairness, reduce criminality, and improve the delivery of justice.
